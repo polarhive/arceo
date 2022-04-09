@@ -10,18 +10,15 @@ Alternatively, add it to your `/etc/hosts` file for hard-blocking sites.
 
 ## What's soft-blocking? 
 
-When you use uBlock Origin - you can temporarily whitelist the site to load
-content should you need it. Cold Turkey? Block websites systemwide. Append the blocklist to your `/etc/hosts` file. But unblocking sites takes a bit more time. This friction
-should work to your advantage.
+When you use uBlock Origin - you can temporarily whitelist the site to load content should you need it. Cold Turkey? Block websites systemwide. Append the blocklist to your `/etc/hosts` file. But unblocking sites takes a bit more time. This friction should work to your advantage.
 
 ## Criteria?
 
-Anything that has a feed, primarily news sites & mainstream social media, sites that have anti-user behaviour like tracking or unwanted `recommendation engines` waiting to feed you more content, wasting your time. Feel free to fork this project & use tune it to your needs. I block Facebook, Reddit, Twitter, YouTube & other mainstream
-social media in my config.
+Anything that has a feed, primarily news sites & mainstream social media, sites that have anti-user behaviour like tracking or unwanted `recommendation engines` waiting to feed you more content, wasting your time. Feel free to fork this project & use tune it to your needs. I block Facebook, Reddit, Twitter, YouTube & other mainstream social media in my config.
 
 ## Why did you make this?
 
-Generally I get all my news via RSS feeds via [newsboat](https://polarhive.ml/dots), in pure plain-text, so I don't hard block in my hosts file. I don't like recommendation engines when I'm browsing. I want things to be static, not disturb my workflow.
+Generally I get all my news via RSS feeds via [newsboat](https://polarhive.ml/dots), in pure plain-text, so I don't hard block sites in my hosts file. I don't like recommendation engines when I'm browsing. I want things to be static, not disturb my workflow.
 
 ### What's with the name?
 
