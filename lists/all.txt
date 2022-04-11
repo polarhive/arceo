@@ -33,11 +33,13 @@
 0.0.0.0 bleacherreport.com
 0.0.0.0 bleepingcomputer.com
 0.0.0.0 blog.playstation.com
+0.0.0.0 blogs.gnome.org
 0.0.0.0 bloomberg.com
 0.0.0.0 bloombergquint.com
 0.0.0.0 boingboing.net
 0.0.0.0 boston.com
 0.0.0.0 business-standard.com
+0.0.0.0 business2community.com
 0.0.0.0 businessinsider.in
 0.0.0.0 buzzfeed.com
 0.0.0.0 buzzfeednews.com
@@ -78,6 +80,7 @@
 0.0.0.0 dev.to
 0.0.0.0 digiday.com
 0.0.0.0 digitalspy.com
+0.0.0.0 digitaltrends.com
 0.0.0.0 directv.com
 0.0.0.0 discord.com
 0.0.0.0 disney.com
@@ -117,6 +120,7 @@
 0.0.0.0 gab.com
 0.0.0.0 gadgets360.com
 0.0.0.0 gamedeveloper.com
+0.0.0.0 gamerant.com
 0.0.0.0 gaytimes.co.uk
 0.0.0.0 genius.com
 0.0.0.0 getpocket.com
@@ -124,6 +128,7 @@
 0.0.0.0 ghacks.net
 0.0.0.0 github.blog
 0.0.0.0 gizmodo.com
+0.0.0.0 glamsham.com
 0.0.0.0 go.com
 0.0.0.0 google.com
 0.0.0.0 gq.com
@@ -260,10 +265,12 @@
 0.0.0.0 phoronix.com
 0.0.0.0 pinknews.co.uk
 0.0.0.0 pinkvilla.com
+0.0.0.0 pinterest.com
 0.0.0.0 pixar.com
 0.0.0.0 pixelfed.social
 0.0.0.0 pizzahut.co.in
 0.0.0.0 play.date
+0.0.0.0 pointieststick.com
 0.0.0.0 politico.com
 0.0.0.0 politifact.com
 0.0.0.0 polygon.com
@@ -303,11 +310,13 @@
 0.0.0.0 sonyliv.com
 0.0.0.0 soundcloud.com
 0.0.0.0 space.com
+0.0.0.0 spieltimes.com
 0.0.0.0 sportskeeda.com
 0.0.0.0 spotify.com
 0.0.0.0 standard.co.uk
 0.0.0.0 starbucks.in
 0.0.0.0 stocktwits.com
+0.0.0.0 store.epicgames.com
 0.0.0.0 store.steampowered.com
 0.0.0.0 stylecraze.com
 0.0.0.0 substack.com
@@ -355,6 +364,7 @@
 0.0.0.0 thetrendspotter.net
 0.0.0.0 theverge.com
 0.0.0.0 thewire.in
+0.0.0.0 thisweek.gnome.org
 0.0.0.0 tiktok.com
 0.0.0.0 tilvids.com
 0.0.0.0 time.com

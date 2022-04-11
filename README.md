@@ -18,11 +18,11 @@ Sure send me an [email](mailto:polarhive@riseup.net?subject=arceo-entry) or use 
 
 ## Criteria?
 
-Anything that has a feed, primarily news sites & mainstream social media, sites that have anti-user behaviour like tracking or unwanted `recommendation engines` waiting to feed you more content, wasting your time. Feel free to fork this project & use tune it to your needs. I block Facebook, Reddit, Twitter, YouTube & other mainstream social media in my config.
+Anything that has a feed, primarily news sites & mainstream social media, sites that have anti-user behavior like tracking or unwanted `recommendation engines` waiting to feed you more content, wasting your time. Feel free to fork this project & use tune it to your needs. I block Facebook, Reddit, Twitter, YouTube & other mainstream social media in my config.
 
 ## Why did you make this?
 
-Generally I get all my news via RSS feeds via [newsboat](https://polarhive.ml/dots), in pure plain-text, so I don't hard block sites in my hosts file. I don't like recommendation engines when I'm browsing. I want things to be static, not disturb my workflow.
+Generally I get all my news via RSS feeds via [newsboat](https://polarhive.ml/dots), in pure plain-text, so I don't hard block sites in my hosts file. I don't like recommendation engines when I'm browsing. I want things to be static, not disturb my workflow. [Here's](https://polarhive.ml/blog/rss-feeds/) a blog post I've written about it.
 
 ### What's with the name?
 
