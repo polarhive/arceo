@@ -1,10 +1,12 @@
 # UPSTREAM: https://polarhive.ml/arceo
 0.0.0.0 4chan.org
+0.0.0.0 8tracks.com
 0.0.0.0 9gag.com
 0.0.0.0 9to5google.com
 0.0.0.0 9to5linux.com
 0.0.0.0 9to5mac.com
 0.0.0.0 9to5toys.com
+0.0.0.0 abc.com
 0.0.0.0 abcnews.go.com
 0.0.0.0 activisionblizzard.com
 0.0.0.0 adage.com
@@ -28,8 +30,12 @@
 0.0.0.0 arabnews.com
 0.0.0.0 arkansasonline.com
 0.0.0.0 arstechnica.com
+0.0.0.0 asianetnews.com
+0.0.0.0 atlasobscura.com
+0.0.0.0 atmos.earth
 0.0.0.0 autonews.com
 0.0.0.0 autoweek.com
+0.0.0.0 avclub.com
 0.0.0.0 bandcamp.com
 0.0.0.0 barrons.com
 0.0.0.0 bbc.co.uk
@@ -49,6 +55,8 @@
 0.0.0.0 bloombergquint.com
 0.0.0.0 boilerroom.tv 
 0.0.0.0 boingboing.net
+0.0.0.0 bollywoodhungama.com
+0.0.0.0 bollywoodlife.com
 0.0.0.0 boston.com
 0.0.0.0 boxun.com 
 0.0.0.0 business-standard.com
@@ -116,15 +124,18 @@
 0.0.0.0 economictimes.indiatimes.com
 0.0.0.0 economist.com
 0.0.0.0 elle.com
+0.0.0.0 empireonline.com
 0.0.0.0 engadget.com
 0.0.0.0 entrepreneur.com
 0.0.0.0 eonline.com
 0.0.0.0 espn.com
 0.0.0.0 esquire.com
+0.0.0.0 etonline.com
 0.0.0.0 ettoday.net
 0.0.0.0 ew.com
 0.0.0.0 facebook.com
 0.0.0.0 facebook.net
+0.0.0.0 falstaff.com
 0.0.0.0 fandom.com
 0.0.0.0 fashionbeans.com
 0.0.0.0 fatherly.com
@@ -135,6 +146,8 @@
 0.0.0.0 flipkart.com
 0.0.0.0 foodpanda.com
 0.0.0.0 forbes.com
+0.0.0.0 fortune.com
+0.0.0.0 fossbytes.com
 0.0.0.0 foxbusiness.com
 0.0.0.0 foxnews.com
 0.0.0.0 france24.com
@@ -160,6 +173,7 @@
 0.0.0.0 gq.com
 0.0.0.0 gqindia.com
 0.0.0.0 greaterkashmir.com
+0.0.0.0 grid.news
 0.0.0.0 gsmarena.com
 0.0.0.0 harpersbazaar.com
 0.0.0.0 hbo.com
@@ -170,6 +184,7 @@
 0.0.0.0 hotjar.com
 0.0.0.0 hotstar.com
 0.0.0.0 huffpost.com
+0.0.0.0 hypem.com
 0.0.0.0 ians.in
 0.0.0.0 ibighit.com
 0.0.0.0 ibtimes.com
@@ -177,6 +192,7 @@
 0.0.0.0 ifunny.co
 0.0.0.0 ign.com
 0.0.0.0 iheart.com
+0.0.0.0 ilovefreesoftware.com
 0.0.0.0 imdb.com
 0.0.0.0 independent.co.uk
 0.0.0.0 india.com
@@ -199,19 +215,23 @@
 0.0.0.0 jpost.com
 0.0.0.0 kfc.com
 0.0.0.0 knowyourmeme.com
+0.0.0.0 koimoi.com
 0.0.0.0 kotaku.com
 0.0.0.0 krqe.com
 0.0.0.0 last.fm
+0.0.0.0 latestly.com
 0.0.0.0 latimes.com
 0.0.0.0 lbb.in
 0.0.0.0 leagueoflegends.com
 0.0.0.0 lemmy.ml
 0.0.0.0 letterboxd.com
+0.0.0.0 lifehacker.com
 0.0.0.0 lifewire.com
 0.0.0.0 linkedin.com
 0.0.0.0 linuxinsider.com
 0.0.0.0 linuxjournal.com
 0.0.0.0 linuxtoday.com
+0.0.0.0 lithub.com
 0.0.0.0 livehindustan.com
 0.0.0.0 livemint.com
 0.0.0.0 looper.com
@@ -225,16 +245,19 @@
 0.0.0.0 marvel.com
 0.0.0.0 mashable.com
 0.0.0.0 mastodon.social
+0.0.0.0 mathrubhumi.com
 0.0.0.0 mcdonalds.com
 0.0.0.0 medium.com
 0.0.0.0 melmagazine.com
 0.0.0.0 mentalfloss.com
 0.0.0.0 messenger.com
+0.0.0.0 metacritic.com
 0.0.0.0 metro.co.uk
 0.0.0.0 microsoft.com
 0.0.0.0 minds.com
 0.0.0.0 minecraft.net
 0.0.0.0 mirror.co.uk
+0.0.0.0 mixcloud.com 
 0.0.0.0 mojang.com
 0.0.0.0 moneycontrol.com
 0.0.0.0 morningstaronline.co.uk
@@ -293,6 +316,7 @@
 0.0.0.0 oregonlive.com
 0.0.0.0 orfonline.org
 0.0.0.0 otakumode.com
+0.0.0.0 outlookindia.com
 0.0.0.0 pagesix.com
 0.0.0.0 pandora.com
 0.0.0.0 paramount.com
@@ -312,6 +336,7 @@
 0.0.0.0 pixelfed.social
 0.0.0.0 pizzahut.co.in
 0.0.0.0 play.date
+0.0.0.0 pluggedin.com 
 0.0.0.0 pointieststick.com
 0.0.0.0 politico.com
 0.0.0.0 politifact.com
@@ -319,6 +344,7 @@
 0.0.0.0 pride.com
 0.0.0.0 primevideo.com
 0.0.0.0 producthunt.com
+0.0.0.0 psyche.co
 0.0.0.0 pubmatic.com
 0.0.0.0 pushengage.com
 0.0.0.0 quadrant.org.au
@@ -333,6 +359,7 @@
 0.0.0.0 reuters.com
 0.0.0.0 rfa.org
 0.0.0.0 roblox.com
+0.0.0.0 rogerebert.com
 0.0.0.0 rollingstone.com
 0.0.0.0 rottentomatoes.com
 0.0.0.0 rt.com
@@ -346,6 +373,7 @@
 0.0.0.0 siliconangle.com
 0.0.0.0 sixthtone.com
 0.0.0.0 slashdot.org
+0.0.0.0 slate.com
 0.0.0.0 sling.com
 0.0.0.0 snapchat.com
 0.0.0.0 snigelweb.com
@@ -370,6 +398,7 @@
 0.0.0.0 swiggy.com
 0.0.0.0 taboola.com
 0.0.0.0 tampabay.com
+0.0.0.0 tastingtable.com
 0.0.0.0 techcrunch.com
 0.0.0.0 techdows.com
 0.0.0.0 techradar.com
@@ -385,6 +414,7 @@
 0.0.0.0 the-sun.com
 0.0.0.0 theatlantic.com
 0.0.0.0 theconversation.com
+0.0.0.0 thecut.com
 0.0.0.0 thedailybeast.com
 0.0.0.0 thediplomat.com
 0.0.0.0 thedirect.com
@@ -411,9 +441,11 @@
 0.0.0.0 theverge.com
 0.0.0.0 thewire.in
 0.0.0.0 thisweek.gnome.org
+0.0.0.0 tidal.com
 0.0.0.0 tiktok.com
 0.0.0.0 tilvids.com
 0.0.0.0 time.com
+0.0.0.0 timeout.com
 0.0.0.0 timesinternet.in
 0.0.0.0 timesnownews.com
 0.0.0.0 timesofindia.indiatimes.com
@@ -453,6 +485,7 @@
 0.0.0.0 voot.com
 0.0.0.0 vox.com
 0.0.0.0 voxmedia.com
+0.0.0.0 washingtonian.com
 0.0.0.0 washingtonpost.com
 0.0.0.0 webmd.com
 0.0.0.0 weforum.org
@@ -468,6 +501,7 @@
 0.0.0.0 xbox.com
 0.0.0.0 xda-developers.com
 0.0.0.0 yahoo.com
+0.0.0.0 you.co.uk
 0.0.0.0 youtube.com
 0.0.0.0 zdnet.com
 0.0.0.0 zee5.com 
