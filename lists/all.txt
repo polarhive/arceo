@@ -7,6 +7,7 @@
 0.0.0.0 9to5mac.com
 0.0.0.0 9to5toys.com
 0.0.0.0 abc.com
+0.0.0.0 abc.net.au
 0.0.0.0 abcnews.go.com
 0.0.0.0 activisionblizzard.com
 0.0.0.0 adage.com
@@ -117,6 +118,7 @@
 0.0.0.0 disney.com
 0.0.0.0 disneyplus.com
 0.0.0.0 dispatch.com
+0.0.0.0 distractify.com
 0.0.0.0 dnaindia.com
 0.0.0.0 dominos.co.in
 0.0.0.0 dominos.com
@@ -177,6 +179,7 @@
 0.0.0.0 gsmarena.com
 0.0.0.0 harpersbazaar.com
 0.0.0.0 hbo.com
+0.0.0.0 hcn.org
 0.0.0.0 healthline.com
 0.0.0.0 heremedia.com
 0.0.0.0 hindustantimes.com
@@ -207,6 +210,7 @@
 0.0.0.0 investmentwatchblog.com
 0.0.0.0 investopedia.com
 0.0.0.0 irishmirror.ie
+0.0.0.0 irishtimes.com
 0.0.0.0 itsfoss.com
 0.0.0.0 jango.com
 0.0.0.0 japantimes.co.jp
