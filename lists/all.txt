@@ -1,5 +1,6 @@
 # UPSTREAM: https://polarhive.ml/arceo
 0.0.0.0 4chan.org
+0.0.0.0 4channel.org
 0.0.0.0 8tracks.com
 0.0.0.0 9gag.com
 0.0.0.0 9to5google.com
@@ -13,12 +14,14 @@
 0.0.0.0 adage.com
 0.0.0.0 adidas.com
 0.0.0.0 advocate.com
+0.0.0.0 aeon.co
 0.0.0.0 alibaba.com
 0.0.0.0 aljazeera.com
 0.0.0.0 aljazeera.net
 0.0.0.0 amazon.com
 0.0.0.0 amazon.in
 0.0.0.0 amp.dev
+0.0.0.0 analyticsindiamag.com
 0.0.0.0 analyticsinsight.net
 0.0.0.0 androidauthority.com 
 0.0.0.0 androidpolice.com
@@ -42,6 +45,7 @@
 0.0.0.0 bbc.co.uk
 0.0.0.0 bbc.com
 0.0.0.0 beebom.com
+0.0.0.0 bigthink.com
 0.0.0.0 bing.com
 0.0.0.0 bitchute.com
 0.0.0.0 bitrates.com
@@ -179,6 +183,7 @@
 0.0.0.0 gsmarena.com
 0.0.0.0 harpersbazaar.com
 0.0.0.0 hbo.com
+0.0.0.0 hbr.org
 0.0.0.0 hcn.org
 0.0.0.0 healthline.com
 0.0.0.0 heremedia.com
@@ -204,6 +209,7 @@
 0.0.0.0 indiatoday.in
 0.0.0.0 indiatvnews.com
 0.0.0.0 indy100.com
+0.0.0.0 inews.co.uk
 0.0.0.0 instagram.com
 0.0.0.0 intouchweekly.com
 0.0.0.0 inverse.com
@@ -246,6 +252,8 @@
 0.0.0.0 lwn.net
 0.0.0.0 makeuseof.com
 0.0.0.0 marca.com
+0.0.0.0 marieclaire.com
+0.0.0.0 marieclaire.com.au
 0.0.0.0 marvel.com
 0.0.0.0 mashable.com
 0.0.0.0 mastodon.social
@@ -253,6 +261,7 @@
 0.0.0.0 mcdonalds.com
 0.0.0.0 medium.com
 0.0.0.0 melmagazine.com
+0.0.0.0 menshealth.com
 0.0.0.0 mentalfloss.com
 0.0.0.0 messenger.com
 0.0.0.0 metacritic.com
@@ -306,6 +315,7 @@
 0.0.0.0 nike.com
 0.0.0.0 nintendo.com
 0.0.0.0 nme.com
+0.0.0.0 noemamag.com
 0.0.0.0 npr.org
 0.0.0.0 npttech.com
 0.0.0.0 nypost.com
