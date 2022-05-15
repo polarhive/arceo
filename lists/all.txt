@@ -15,6 +15,7 @@
 0.0.0.0 adidas.com
 0.0.0.0 advocate.com
 0.0.0.0 aeon.co
+0.0.0.0 al.com
 0.0.0.0 alibaba.com
 0.0.0.0 aljazeera.com
 0.0.0.0 aljazeera.net
@@ -44,6 +45,7 @@
 0.0.0.0 barrons.com
 0.0.0.0 bbc.co.uk
 0.0.0.0 bbc.com
+0.0.0.0 beatport.com
 0.0.0.0 beebom.com
 0.0.0.0 bigthink.com
 0.0.0.0 bing.com
@@ -53,6 +55,7 @@
 0.0.0.0 bleacherreport.com
 0.0.0.0 bleepingcomputer.com
 0.0.0.0 blizzard.com
+0.0.0.0 blog.elementary.io
 0.0.0.0 blog.joinmastodon.org
 0.0.0.0 blog.playstation.com
 0.0.0.0 blogs.gnome.org
@@ -84,6 +87,8 @@
 0.0.0.0 chicagotribune.com
 0.0.0.0 chinadaily.com.cn
 0.0.0.0 chinadigitaltimes.net
+0.0.0.0 chronicle.com
+0.0.0.0 chronline.com
 0.0.0.0 cincinnati.com
 0.0.0.0 cinemablend.com
 0.0.0.0 cnbc.com
@@ -100,6 +105,7 @@
 0.0.0.0 cosmopolitan.com
 0.0.0.0 cracked.com
 0.0.0.0 daijiworld.com
+0.0.0.0 dailycaller.com
 0.0.0.0 dailydot.com
 0.0.0.0 dailymail.co.uk
 0.0.0.0 dailymotion.com
@@ -107,6 +113,7 @@
 0.0.0.0 dallasnews.com
 0.0.0.0 dccomics.com
 0.0.0.0 deadline.com
+0.0.0.0 debugpoint.com
 0.0.0.0 deccanherald.com
 0.0.0.0 decider.com
 0.0.0.0 defense.gov
@@ -151,9 +158,11 @@
 0.0.0.0 firstpost.com
 0.0.0.0 flipkart.com
 0.0.0.0 foodpanda.com
+0.0.0.0 footwearnews.com
 0.0.0.0 forbes.com
 0.0.0.0 fortune.com
 0.0.0.0 fossbytes.com
+0.0.0.0 fosstodon.org
 0.0.0.0 foxbusiness.com
 0.0.0.0 foxnews.com
 0.0.0.0 france24.com
@@ -210,6 +219,7 @@
 0.0.0.0 indiatvnews.com
 0.0.0.0 indy100.com
 0.0.0.0 inews.co.uk
+0.0.0.0 inforum.com
 0.0.0.0 instagram.com
 0.0.0.0 intouchweekly.com
 0.0.0.0 inverse.com
@@ -238,8 +248,10 @@
 0.0.0.0 lifehacker.com
 0.0.0.0 lifewire.com
 0.0.0.0 linkedin.com
+0.0.0.0 linux-magazine.com
 0.0.0.0 linuxinsider.com
 0.0.0.0 linuxjournal.com
+0.0.0.0 linuxstoney.com
 0.0.0.0 linuxtoday.com
 0.0.0.0 lithub.com
 0.0.0.0 livehindustan.com
@@ -250,6 +262,7 @@
 0.0.0.0 lucasfilm.com
 0.0.0.0 lulu.com
 0.0.0.0 lwn.net
+0.0.0.0 lxer.com
 0.0.0.0 makeuseof.com
 0.0.0.0 marca.com
 0.0.0.0 marieclaire.com
@@ -285,11 +298,13 @@
 0.0.0.0 music.apple.com
 0.0.0.0 myfinance.com
 0.0.0.0 nationalgeographic.com
+0.0.0.0 nationalpost.com
 0.0.0.0 nationalreview.com
 0.0.0.0 nature.com
 0.0.0.0 nbc12.com
 0.0.0.0 nbcnews.com
 0.0.0.0 ndtv.com
+0.0.0.0 neowin.net
 0.0.0.0 netflix.com
 0.0.0.0 newindianexpress.com
 0.0.0.0 newrelic.com
@@ -310,6 +325,7 @@
 0.0.0.0 newsweek.com
 0.0.0.0 newyorker.com
 0.0.0.0 nfl.com
+0.0.0.0 nicekicks.com
 0.0.0.0 nick.com.au
 0.0.0.0 niemanreports.org
 0.0.0.0 nike.com
@@ -337,6 +353,7 @@
 0.0.0.0 pbs.org
 0.0.0.0 pbskids.org
 0.0.0.0 pcmag.com
+0.0.0.0 peacocktv.com
 0.0.0.0 people.com
 0.0.0.0 people.com.cn
 0.0.0.0 pepsico.co.uk
@@ -365,6 +382,7 @@
 0.0.0.0 quantserve.com
 0.0.0.0 quora.com
 0.0.0.0 qz.com
+0.0.0.0 rap-up.com
 0.0.0.0 reason.com
 0.0.0.0 reclaimthenet.org
 0.0.0.0 reddit.com
@@ -390,6 +408,7 @@
 0.0.0.0 slate.com
 0.0.0.0 sling.com
 0.0.0.0 snapchat.com
+0.0.0.0 sneakernews.com
 0.0.0.0 snigelweb.com
 0.0.0.0 softpedia.com
 0.0.0.0 sonyliv.com
@@ -406,6 +425,7 @@
 0.0.0.0 stocktwits.com
 0.0.0.0 store.epicgames.com
 0.0.0.0 store.steampowered.com
+0.0.0.0 straitstimes.com
 0.0.0.0 stylecraze.com
 0.0.0.0 substack.com
 0.0.0.0 swarajyamag.com
