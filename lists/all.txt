@@ -69,6 +69,7 @@
 0.0.0.0 boingboing.net
 0.0.0.0 bollywoodhungama.com
 0.0.0.0 bollywoodlife.com
+0.0.0.0 bookmyshow.com
 0.0.0.0 boostenergy.com
 0.0.0.0 boston.com
 0.0.0.0 boxun.com 
@@ -218,6 +219,7 @@
 0.0.0.0 hollywoodreporter.com
 0.0.0.0 hotjar.com
 0.0.0.0 hotstar.com
+0.0.0.0 howtogeek.com
 0.0.0.0 hrw.org
 0.0.0.0 huffpost.com
 0.0.0.0 hul.co.in
@@ -231,9 +233,11 @@
 0.0.0.0 ign.com
 0.0.0.0 iheart.com
 0.0.0.0 ikea.com
+0.0.0.0 illumination.com
 0.0.0.0 ilovefreesoftware.com
 0.0.0.0 imdb.com
 0.0.0.0 inc42.com
+0.0.0.0 indeed.com
 0.0.0.0 independent.co.uk
 0.0.0.0 india.com
 0.0.0.0 indianexpress.com
@@ -295,6 +299,7 @@
 0.0.0.0 lulu.com
 0.0.0.0 lwn.net
 0.0.0.0 lxer.com
+0.0.0.0 makemytrip.com
 0.0.0.0 makeupandbeauty.com
 0.0.0.0 makeuseof.com
 0.0.0.0 marca.com
@@ -437,6 +442,7 @@
 0.0.0.0 republicworld.com
 0.0.0.0 rethink.org
 0.0.0.0 reuters.com
+0.0.0.0 reviewgeek.com
 0.0.0.0 rfa.org
 0.0.0.0 roblox.com
 0.0.0.0 rogerebert.com
@@ -467,6 +473,7 @@
 0.0.0.0 soundcloud.com
 0.0.0.0 southcn.com
 0.0.0.0 southnews.com.tw
+0.0.0.0 southparkstudios.com
 0.0.0.0 space.com
 0.0.0.0 spicyonion.com
 0.0.0.0 spieltimes.com
@@ -474,6 +481,7 @@
 0.0.0.0 spotify.com
 0.0.0.0 standard.co.uk
 0.0.0.0 staples.com
+0.0.0.0 starbucks.com
 0.0.0.0 starbucks.in
 0.0.0.0 startuptoenterprise.com
 0.0.0.0 statesman.com
@@ -560,6 +568,8 @@
 0.0.0.0 ulta.com
 0.0.0.0 un.org
 0.0.0.0 unilever.com
+0.0.0.0 universalpictures.com
+0.0.0.0 universalstudios.com
 0.0.0.0 urbandictionary.com
 0.0.0.0 usatoday.com
 0.0.0.0 usmagazine.com
