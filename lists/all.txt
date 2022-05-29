@@ -114,6 +114,7 @@
 0.0.0.0 cosmopolitan.com
 0.0.0.0 cosstores.com
 0.0.0.0 cracked.com
+0.0.0.0 creambell.com
 0.0.0.0 crunchbase.com
 0.0.0.0 daijiworld.com
 0.0.0.0 dailycaller.com
@@ -284,6 +285,7 @@
 0.0.0.0 lifewire.com
 0.0.0.0 limeroad.com
 0.0.0.0 linkedin.com
+0.0.0.0 linustechtips.com
 0.0.0.0 linux-magazine.com
 0.0.0.0 linuxinsider.com
 0.0.0.0 linuxjournal.com
@@ -310,6 +312,7 @@
 0.0.0.0 mastodon.social
 0.0.0.0 mathrubhumi.com
 0.0.0.0 mcdonalds.com
+0.0.0.0 medelita.com
 0.0.0.0 medium.com
 0.0.0.0 melmagazine.com
 0.0.0.0 menshealth.com
@@ -402,6 +405,7 @@
 0.0.0.0 pbs.org
 0.0.0.0 pbskids.org
 0.0.0.0 pcmag.com
+0.0.0.0 pcworld.com
 0.0.0.0 peacocktv.com
 0.0.0.0 people.com
 0.0.0.0 people.com.cn
@@ -413,6 +417,7 @@
 0.0.0.0 pinknews.co.uk
 0.0.0.0 pinkvilla.com
 0.0.0.0 pinterest.com
+0.0.0.0 pitchfork.com
 0.0.0.0 pixar.com
 0.0.0.0 pixelfed.social
 0.0.0.0 pizzahut.co.in
@@ -442,8 +447,10 @@
 0.0.0.0 republicworld.com
 0.0.0.0 rethink.org
 0.0.0.0 reuters.com
+0.0.0.0 reviewed.com
 0.0.0.0 reviewgeek.com
 0.0.0.0 rfa.org
+0.0.0.0 rigorousthemes.com
 0.0.0.0 roblox.com
 0.0.0.0 rogerebert.com
 0.0.0.0 rollingstone.com
@@ -466,6 +473,7 @@
 0.0.0.0 slate.com
 0.0.0.0 sling.com
 0.0.0.0 snapchat.com
+0.0.0.0 snapdeal.co
 0.0.0.0 sneakernews.com
 0.0.0.0 snigelweb.com
 0.0.0.0 softpedia.com
@@ -500,6 +508,7 @@
 0.0.0.0 tastingtable.com
 0.0.0.0 techcrunch.com
 0.0.0.0 techdows.com
+0.0.0.0 techhive.com
 0.0.0.0 techradar.com
 0.0.0.0 techrights.org
 0.0.0.0 techspot.com
