@@ -13,6 +13,7 @@
 0.0.0.0 activisionblizzard.com
 0.0.0.0 adage.com
 0.0.0.0 adidas.com
+0.0.0.0 adn.com
 0.0.0.0 advocate.com
 0.0.0.0 aeon.co
 0.0.0.0 al.com
@@ -42,6 +43,7 @@
 0.0.0.0 autonews.com
 0.0.0.0 autoweek.com
 0.0.0.0 avclub.com
+0.0.0.0 axios.com
 0.0.0.0 bandcamp.com
 0.0.0.0 barrons.com
 0.0.0.0 baskinrobbins.com
@@ -116,6 +118,7 @@
 0.0.0.0 cracked.com
 0.0.0.0 creambell.com
 0.0.0.0 crunchbase.com
+0.0.0.0 ctvnews.ca
 0.0.0.0 daijiworld.com
 0.0.0.0 dailycaller.com
 0.0.0.0 dailydot.com
@@ -135,6 +138,7 @@
 0.0.0.0 deviantart.com
 0.0.0.0 digg.com
 0.0.0.0 digiday.com
+0.0.0.0 digitalcameraworld.com
 0.0.0.0 digitalspy.com
 0.0.0.0 digitaltrends.com
 0.0.0.0 directv.com
@@ -207,6 +211,7 @@
 0.0.0.0 gqindia.com
 0.0.0.0 greaterkashmir.com
 0.0.0.0 grid.news
+0.0.0.0 grubstreet.com
 0.0.0.0 gsmarena.com
 0.0.0.0 harpersbazaar.com
 0.0.0.0 hbo.com
@@ -341,6 +346,7 @@
 0.0.0.0 music.apple.com
 0.0.0.0 myfinance.com
 0.0.0.0 myntra.com
+0.0.0.0 nasdaq.com
 0.0.0.0 nationalgeographic.com
 0.0.0.0 nationalpost.com
 0.0.0.0 nationalreview.com
@@ -385,6 +391,7 @@
 0.0.0.0 npr.org
 0.0.0.0 npttech.com
 0.0.0.0 nykaa.com
+0.0.0.0 nymag.com
 0.0.0.0 nypost.com
 0.0.0.0 nyt.com
 0.0.0.0 nytimes.com
@@ -392,6 +399,7 @@
 0.0.0.0 oculus.com
 0.0.0.0 odysee.com
 0.0.0.0 omgubuntu.co.uk
+0.0.0.0 onmsft.com
 0.0.0.0 open.spotify.com
 0.0.0.0 opindia.com
 0.0.0.0 oregonlive.com
@@ -451,6 +459,7 @@
 0.0.0.0 reviewgeek.com
 0.0.0.0 rfa.org
 0.0.0.0 rigorousthemes.com
+0.0.0.0 rnz.co.nz
 0.0.0.0 roblox.com
 0.0.0.0 rogerebert.com
 0.0.0.0 rollingstone.com
@@ -497,6 +506,7 @@
 0.0.0.0 store.epicgames.com
 0.0.0.0 store.steampowered.com
 0.0.0.0 straitstimes.com
+0.0.0.0 stuff.co.nz
 0.0.0.0 stylecraze.com
 0.0.0.0 stylevana.com
 0.0.0.0 substack.com
@@ -533,6 +543,8 @@
 0.0.0.0 thehill.com
 0.0.0.0 thehindu.com
 0.0.0.0 theintercept.com
+0.0.0.0 theinterns.net
+0.0.0.0 thelocal.dk
 0.0.0.0 themarkup.org
 0.0.0.0 thenation.com
 0.0.0.0 theonion.com
@@ -540,6 +552,7 @@
 0.0.0.0 thequint.com
 0.0.0.0 theregister.com
 0.0.0.0 thespun.com
+0.0.0.0 thestar.com
 0.0.0.0 thestatesman.com
 0.0.0.0 thestreamable.com
 0.0.0.0 thesun.co.uk
@@ -606,9 +619,11 @@
 0.0.0.0 washingtonpost.com
 0.0.0.0 webmd.com
 0.0.0.0 weforum.org
+0.0.0.0 welltechnically.news
 0.0.0.0 westernjournal.com
 0.0.0.0 westside.com
 0.0.0.0 who.int
+0.0.0.0 windowscentral.com
 0.0.0.0 wionews.com
 0.0.0.0 wired.com
 0.0.0.0 worldbank.org
