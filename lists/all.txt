@@ -1,6 +1,7 @@
 # UPSTREAM: https://polarhive.ml/arceo
 0.0.0.0 4chan.org
 0.0.0.0 4channel.org
+0.0.0.0 7news.com.au
 0.0.0.0 8tracks.com
 0.0.0.0 9gag.com
 0.0.0.0 9to5google.com
@@ -9,6 +10,8 @@
 0.0.0.0 9to5toys.com
 0.0.0.0 abc.com
 0.0.0.0 abc.net.au
+0.0.0.0 abc7chicago.com
+0.0.0.0 abcactionnews.com
 0.0.0.0 abcnews.go.com
 0.0.0.0 activisionblizzard.com
 0.0.0.0 adage.com
@@ -119,6 +122,7 @@
 0.0.0.0 creambell.com
 0.0.0.0 crunchbase.com
 0.0.0.0 ctvnews.ca
+0.0.0.0 curiositystream.com
 0.0.0.0 daijiworld.com
 0.0.0.0 dailycaller.com
 0.0.0.0 dailydot.com
@@ -152,6 +156,7 @@
 0.0.0.0 dominos.com
 0.0.0.0 dove.com
 0.0.0.0 dunzo.com
+0.0.0.0 dutchnews.nl
 0.0.0.0 dwnews.com
 0.0.0.0 ebay.com
 0.0.0.0 economist.com
@@ -206,6 +211,7 @@
 0.0.0.0 globalcosmeticsnews.com
 0.0.0.0 globaltimes.cn
 0.0.0.0 go.com
+0.0.0.0 goodnewsnetwork.org
 0.0.0.0 google.com
 0.0.0.0 gq.com
 0.0.0.0 gqindia.com
@@ -218,6 +224,7 @@
 0.0.0.0 hbr.org
 0.0.0.0 hcn.org
 0.0.0.0 healthline.com
+0.0.0.0 heraldsun.com.au
 0.0.0.0 heremedia.com
 0.0.0.0 hindustantimes.com
 0.0.0.0 hm.com
@@ -276,6 +283,7 @@
 0.0.0.0 knowyourmeme.com
 0.0.0.0 koimoi.com
 0.0.0.0 kotaku.com
+0.0.0.0 kqed.org
 0.0.0.0 krqe.com
 0.0.0.0 kwalitywalls.in
 0.0.0.0 last.fm
@@ -334,6 +342,7 @@
 0.0.0.0 mojang.com
 0.0.0.0 moneycontrol.com
 0.0.0.0 monki.com
+0.0.0.0 montrealgazette.com
 0.0.0.0 morningstaronline.co.uk
 0.0.0.0 motor1.com
 0.0.0.0 motorauthority.com
@@ -363,6 +372,7 @@
 0.0.0.0 newrepublic.com
 0.0.0.0 news.cn
 0.0.0.0 news.cornell.edu
+0.0.0.0 news.gallup.com
 0.0.0.0 news.google.com
 0.0.0.0 news.mit.edu
 0.0.0.0 news.sky.com
@@ -386,6 +396,7 @@
 0.0.0.0 nivea.com
 0.0.0.0 nivea.com.au
 0.0.0.0 niveausa.com
+0.0.0.0 nj.com
 0.0.0.0 nme.com
 0.0.0.0 noemamag.com
 0.0.0.0 npr.org
@@ -405,6 +416,7 @@
 0.0.0.0 oregonlive.com
 0.0.0.0 orfonline.org
 0.0.0.0 otakumode.com
+0.0.0.0 ottawacitizen.com
 0.0.0.0 outlookindia.com
 0.0.0.0 pagesix.com
 0.0.0.0 pandora.com
@@ -466,12 +478,14 @@
 0.0.0.0 rottentomatoes.com
 0.0.0.0 rt.com
 0.0.0.0 russiatoday.com
+0.0.0.0 sacbee.com
 0.0.0.0 salon.com
 0.0.0.0 sandiegouniontribune.com
 0.0.0.0 scmp.com
 0.0.0.0 scoopwhoop.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scroll.com
+0.0.0.0 sfchronicle.com
 0.0.0.0 sfgate.com
 0.0.0.0 shoppre.com
 0.0.0.0 si.com
@@ -481,6 +495,7 @@
 0.0.0.0 slashdot.org
 0.0.0.0 slate.com
 0.0.0.0 sling.com
+0.0.0.0 smh.com.au
 0.0.0.0 snapchat.com
 0.0.0.0 snapdeal.co
 0.0.0.0 sneakernews.com
@@ -622,6 +637,7 @@
 0.0.0.0 welltechnically.news
 0.0.0.0 westernjournal.com
 0.0.0.0 westside.com
+0.0.0.0 wfla.com
 0.0.0.0 who.int
 0.0.0.0 windowscentral.com
 0.0.0.0 wionews.com
