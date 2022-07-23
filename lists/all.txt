@@ -154,6 +154,7 @@
 0.0.0.0 dnaindia.com
 0.0.0.0 dominos.co.in
 0.0.0.0 dominos.com
+0.0.0.0 dotexe.com
 0.0.0.0 dove.com
 0.0.0.0 dunzo.com
 0.0.0.0 dutchnews.nl
@@ -188,6 +189,7 @@
 0.0.0.0 forbes.com
 0.0.0.0 fortune.com
 0.0.0.0 forummalls.in
+0.0.0.0 forward.com
 0.0.0.0 fossbytes.com
 0.0.0.0 fosstodon.org
 0.0.0.0 foxbusiness.com
@@ -460,6 +462,7 @@
 0.0.0.0 pushengage.com
 0.0.0.0 pvrcinemas.com
 0.0.0.0 quadrant.org.au
+0.0.0.0 quantamagazine.org
 0.0.0.0 quantserve.com
 0.0.0.0 quora.com
 0.0.0.0 qz.com
@@ -531,6 +534,7 @@
 0.0.0.0 stylecraze.com
 0.0.0.0 stylevana.com
 0.0.0.0 substack.com
+0.0.0.0 summit.news
 0.0.0.0 swarajyamag.com
 0.0.0.0 swiggy.com
 0.0.0.0 taboola.com
