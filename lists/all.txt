@@ -86,6 +86,7 @@
 0.0.0.0 byrdie.com
 0.0.0.0 caijing.com.cn
 0.0.0.0 californiatimes.com
+0.0.0.0 cameo.com
 0.0.0.0 campaignasia.com
 0.0.0.0 caranddriver.com
 0.0.0.0 caravanmagazine.in
@@ -100,10 +101,12 @@
 0.0.0.0 chicagotribune.com
 0.0.0.0 chinadaily.com.cn
 0.0.0.0 chinadigitaltimes.net
+0.0.0.0 chingari.io
 0.0.0.0 chronicle.com
 0.0.0.0 chronline.com
 0.0.0.0 cincinnati.com
 0.0.0.0 cinemablend.com
+0.0.0.0 cloud7.news
 0.0.0.0 cnbc.com
 0.0.0.0 cnd.org
 0.0.0.0 cnet.com
@@ -238,6 +241,7 @@
 0.0.0.0 hotstar.com
 0.0.0.0 howtogeek.com
 0.0.0.0 hrw.org
+0.0.0.0 huddlesapp.co
 0.0.0.0 huffpost.com
 0.0.0.0 hul.co.in
 0.0.0.0 hypem.com
@@ -303,6 +307,7 @@
 0.0.0.0 lifehacker.com
 0.0.0.0 lifestylestores.com
 0.0.0.0 lifewire.com
+0.0.0.0 likee.video
 0.0.0.0 limeroad.com
 0.0.0.0 linkedin.com
 0.0.0.0 linustechtips.com
@@ -354,6 +359,7 @@
 0.0.0.0 motor1.com
 0.0.0.0 motorauthority.com
 0.0.0.0 motortrend.com
+0.0.0.0 mouthshut.com
 0.0.0.0 mozilla.org
 0.0.0.0 msn.com
 0.0.0.0 msnbc.com
@@ -553,6 +559,7 @@
 0.0.0.0 techradar.com
 0.0.0.0 techrights.org
 0.0.0.0 techspot.com
+0.0.0.0 techtarget.com
 0.0.0.0 techviral.net
 0.0.0.0 ted.com
 0.0.0.0 teddit.net
@@ -613,6 +620,7 @@
 0.0.0.0 townandcountrymag.com
 0.0.0.0 townhall.com
 0.0.0.0 traveldailynews.com
+0.0.0.0 triller.co
 0.0.0.0 tripadvisor.in
 0.0.0.0 trtworld.com
 0.0.0.0 tumblr.com
@@ -638,6 +646,7 @@
 0.0.0.0 vice.com
 0.0.0.0 videos.lukesmith.xyz
 0.0.0.0 vimeo.com
+0.0.0.0 vine.co
 0.0.0.0 visionofhumanity.org
 0.0.0.0 vk.com
 0.0.0.0 voanews.com
