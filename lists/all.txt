@@ -43,6 +43,7 @@
 0.0.0.0 asos.com
 0.0.0.0 atlasobscura.com
 0.0.0.0 atmos.earth
+0.0.0.0 autocarindia.com
 0.0.0.0 autonews.com
 0.0.0.0 autoweek.com
 0.0.0.0 avclub.com
@@ -58,6 +59,7 @@
 0.0.0.0 bigbasket.com
 0.0.0.0 bigbazaar.com
 0.0.0.0 bigthink.com
+0.0.0.0 bikewale.com
 0.0.0.0 bing.com
 0.0.0.0 bitchute.com
 0.0.0.0 bitrates.com
@@ -512,6 +514,7 @@
 0.0.0.0 scorecardresearch.com
 0.0.0.0 screenrant.com
 0.0.0.0 scroll.com
+0.0.0.0 searchenginejournal.com
 0.0.0.0 sfchronicle.com
 0.0.0.0 sfgate.com
 0.0.0.0 shoppre.com
@@ -559,6 +562,7 @@
 0.0.0.0 tampabay.com
 0.0.0.0 target.com
 0.0.0.0 tastingtable.com
+0.0.0.0 team-bhp.com
 0.0.0.0 techcrunch.com
 0.0.0.0 techdows.com
 0.0.0.0 techhive.com
@@ -688,7 +692,9 @@
 0.0.0.0 yahoo.com
 0.0.0.0 yelp.com
 0.0.0.0 you.co.uk
+0.0.0.0 yourstory.com
 0.0.0.0 youtube.com
 0.0.0.0 zdnet.com
 0.0.0.0 zee5.com 
+0.0.0.0 zigwheels.com
 0.0.0.0 zomato.com
