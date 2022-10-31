@@ -13,6 +13,7 @@
 0.0.0.0 abc7chicago.com
 0.0.0.0 abcactionnews.com
 0.0.0.0 abcnews.go.com
+0.0.0.0 accessonline.com
 0.0.0.0 activisionblizzard.com
 0.0.0.0 adage.com
 0.0.0.0 adidas.com
@@ -60,6 +61,7 @@
 0.0.0.0 bigbazaar.com
 0.0.0.0 bigthink.com
 0.0.0.0 bikewale.com
+0.0.0.0 billboard.com
 0.0.0.0 bing.com
 0.0.0.0 bitchute.com
 0.0.0.0 bitrates.com
@@ -93,6 +95,7 @@
 0.0.0.0 campaignasia.com
 0.0.0.0 caranddriver.com
 0.0.0.0 caravanmagazine.in
+0.0.0.0 careers360.com
 0.0.0.0 caretobeauty.com
 0.0.0.0 cars.com
 0.0.0.0 cbr.com
@@ -167,6 +170,7 @@
 0.0.0.0 dunzo.com
 0.0.0.0 dutchnews.nl
 0.0.0.0 dwnews.com
+0.0.0.0 ea.com
 0.0.0.0 ebay.com
 0.0.0.0 economist.com
 0.0.0.0 elle.com
@@ -283,6 +287,7 @@
 0.0.0.0 irishmirror.ie
 0.0.0.0 irishtimes.com
 0.0.0.0 itsfoss.com
+0.0.0.0 jagran.com
 0.0.0.0 jagranjosh.com
 0.0.0.0 jango.com
 0.0.0.0 japantimes.co.jp
@@ -400,6 +405,7 @@
 0.0.0.0 news.ycombinator.com
 0.0.0.0 news18.com
 0.0.0.0 newscientist.com
+0.0.0.0 newsgram.com
 0.0.0.0 newsguardtech.com
 0.0.0.0 newslaundry.com
 0.0.0.0 newsmax.com
@@ -514,6 +520,7 @@
 0.0.0.0 scorecardresearch.com
 0.0.0.0 screenrant.com
 0.0.0.0 scroll.com
+0.0.0.0 scroll.in
 0.0.0.0 searchenginejournal.com
 0.0.0.0 sfchronicle.com
 0.0.0.0 sfgate.com
