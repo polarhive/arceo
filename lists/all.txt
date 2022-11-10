@@ -51,6 +51,7 @@
 0.0.0.0 axios.com
 0.0.0.0 bandcamp.com
 0.0.0.0 barrons.com
+0.0.0.0 basic-tutorials.com
 0.0.0.0 baskinrobbins.com
 0.0.0.0 bbc.co.uk
 0.0.0.0 bbc.com
@@ -86,6 +87,7 @@
 0.0.0.0 business-standard.com
 0.0.0.0 business2community.com
 0.0.0.0 businessinsider.in
+0.0.0.0 businessworld.in
 0.0.0.0 buzzfeed.com
 0.0.0.0 buzzfeednews.com
 0.0.0.0 byrdie.com
@@ -139,6 +141,7 @@
 0.0.0.0 dailymotion.com
 0.0.0.0 dailywire.com
 0.0.0.0 dallasnews.com
+0.0.0.0 dataconomy.com
 0.0.0.0 dccomics.com
 0.0.0.0 deadline.com
 0.0.0.0 debugpoint.com
@@ -189,6 +192,7 @@
 0.0.0.0 fandom.com
 0.0.0.0 fashionbeans.com
 0.0.0.0 fashionunited.in
+0.0.0.0 fastcompany.com
 0.0.0.0 fatherly.com
 0.0.0.0 filmspeak.org
 0.0.0.0 financialexpress.com
@@ -356,6 +360,7 @@
 0.0.0.0 mentalfloss.com
 0.0.0.0 messenger.com
 0.0.0.0 metacritic.com
+0.0.0.0 metalinjection.net
 0.0.0.0 metro.co.uk
 0.0.0.0 microsoft.com
 0.0.0.0 mid-day.com
@@ -530,6 +535,7 @@
 0.0.0.0 siliconangle.com
 0.0.0.0 sixthtone.com
 0.0.0.0 slashdot.org
+0.0.0.0 slashgear.com
 0.0.0.0 slate.com
 0.0.0.0 sling.com
 0.0.0.0 smh.com.au
@@ -613,6 +619,7 @@
 0.0.0.0 thestreamable.com
 0.0.0.0 thesun.co.uk
 0.0.0.0 thesundaytimes.co.uk
+0.0.0.0 theswaddle.com
 0.0.0.0 thetech.com
 0.0.0.0 thetimes.co.uk
 0.0.0.0 thetrendspotter.net
