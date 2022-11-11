@@ -20,6 +20,7 @@
 0.0.0.0 adn.com
 0.0.0.0 advocate.com
 0.0.0.0 aeon.co
+0.0.0.0 ajc.com
 0.0.0.0 al.com
 0.0.0.0 alibaba.com
 0.0.0.0 aljazeera.com
@@ -106,6 +107,7 @@
 0.0.0.0 cbssports.com
 0.0.0.0 centrepointstores.com
 0.0.0.0 cgtn.com
+0.0.0.0 cheatsheet.com
 0.0.0.0 chicagotribune.com
 0.0.0.0 chinadaily.com.cn
 0.0.0.0 chinadigitaltimes.net
@@ -130,6 +132,7 @@
 0.0.0.0 cosmopolitan.com
 0.0.0.0 cosstores.com
 0.0.0.0 cracked.com
+0.0.0.0 crackmagazine.net
 0.0.0.0 creambell.com
 0.0.0.0 crunchbase.com
 0.0.0.0 ctvnews.ca
@@ -175,8 +178,10 @@
 0.0.0.0 dwnews.com
 0.0.0.0 ea.com
 0.0.0.0 ebay.com
+0.0.0.0 economictimes.com
 0.0.0.0 economist.com
 0.0.0.0 elle.com
+0.0.0.0 elle.com.au
 0.0.0.0 empireonline.com
 0.0.0.0 engadget.com
 0.0.0.0 entrepreneur.com
@@ -301,6 +306,7 @@
 0.0.0.0 jockeyinternational.com
 0.0.0.0 jpost.com
 0.0.0.0 justdial.com
+0.0.0.0 justjared.com
 0.0.0.0 kayak.co.in
 0.0.0.0 kayak.com
 0.0.0.0 kfc.com
@@ -431,6 +437,7 @@
 0.0.0.0 nj.com
 0.0.0.0 nme.com
 0.0.0.0 noemamag.com
+0.0.0.0 notion.online
 0.0.0.0 npr.org
 0.0.0.0 npttech.com
 0.0.0.0 nykaa.com
@@ -441,6 +448,8 @@
 0.0.0.0 nzherald.co.nz
 0.0.0.0 oculus.com
 0.0.0.0 odysee.com
+0.0.0.0 okmagazine.com
+0.0.0.0 oldest.org
 0.0.0.0 omgubuntu.co.uk
 0.0.0.0 onmanorama.com
 0.0.0.0 onmsft.com
@@ -516,6 +525,7 @@
 0.0.0.0 rollingstone.com
 0.0.0.0 rottentomatoes.com
 0.0.0.0 rt.com
+0.0.0.0 rumble.com
 0.0.0.0 russiatoday.com
 0.0.0.0 sacbee.com
 0.0.0.0 salon.com
@@ -565,6 +575,7 @@
 0.0.0.0 store.steampowered.com
 0.0.0.0 straitstimes.com
 0.0.0.0 stuff.co.nz
+0.0.0.0 stylecaster.com
 0.0.0.0 stylecraze.com
 0.0.0.0 stylevana.com
 0.0.0.0 substack.com
@@ -573,6 +584,7 @@
 0.0.0.0 swiggy.com
 0.0.0.0 taboola.com
 0.0.0.0 tampabay.com
+0.0.0.0 tankmagazine.com
 0.0.0.0 target.com
 0.0.0.0 tastingtable.com
 0.0.0.0 team-bhp.com
@@ -606,9 +618,11 @@
 0.0.0.0 thehindu.com
 0.0.0.0 theintercept.com
 0.0.0.0 theinterns.net
+0.0.0.0 thelist.com
 0.0.0.0 thelocal.dk
 0.0.0.0 themarkup.org
 0.0.0.0 thenation.com
+0.0.0.0 thenerdstash.com
 0.0.0.0 theonion.com
 0.0.0.0 theprint.in
 0.0.0.0 thequint.com
