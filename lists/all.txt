@@ -40,6 +40,7 @@
 0.0.0.0 allrecipes.com
 0.0.0.0 amazon.com
 0.0.0.0 amazon.in
+0.0.0.0 americansongwriter.com
 0.0.0.0 amp.dev
 0.0.0.0 analyticsindiamag.com
 0.0.0.0 analyticsinsight.net
@@ -127,6 +128,7 @@
 0.0.0.0 careers360.com
 0.0.0.0 caretobeauty.com
 0.0.0.0 cars.com
+0.0.0.0 catalyst-journal.com
 0.0.0.0 caughtoffside.com
 0.0.0.0 cbr.com
 0.0.0.0 cbslocal.com
@@ -141,6 +143,7 @@
 0.0.0.0 cgtn.com
 0.0.0.0 chano8.com
 0.0.0.0 cheatsheet.com
+0.0.0.0 chicagoreader.com
 0.0.0.0 chicagotribune.com
 0.0.0.0 chinadaily.com.cn
 0.0.0.0 chinadigitaltimes.net
@@ -401,6 +404,7 @@
 0.0.0.0 irishmirror.ie
 0.0.0.0 irishtimes.com
 0.0.0.0 itsfoss.com
+0.0.0.0 jacobin.com
 0.0.0.0 jagran.com
 0.0.0.0 jagranjosh.com
 0.0.0.0 jango.com
@@ -477,6 +481,7 @@
 0.0.0.0 marca.com
 0.0.0.0 marieclaire.com
 0.0.0.0 marieclaire.com.au
+0.0.0.0 marketwatch.com
 0.0.0.0 marthastewart.com
 0.0.0.0 marvel.com
 0.0.0.0 mashable.com
@@ -505,7 +510,9 @@
 0.0.0.0 missmalini.com
 0.0.0.0 mixcloud.com 
 0.0.0.0 mojang.com
+0.0.0.0 money.com
 0.0.0.0 moneycontrol.com
+0.0.0.0 moneywatch.com
 0.0.0.0 monki.com
 0.0.0.0 montrealgazette.com
 0.0.0.0 morningstaronline.co.uk
@@ -771,6 +778,7 @@
 0.0.0.0 telegraph.co.uk
 0.0.0.0 telegraphindia.com
 0.0.0.0 terezowens.com
+0.0.0.0 teslarati.com
 0.0.0.0 texastribune.org
 0.0.0.0 the-sun.com
 0.0.0.0 theatlantic.com
@@ -783,6 +791,7 @@
 0.0.0.0 thediplomat.com
 0.0.0.0 thedirect.com
 0.0.0.0 theepochtimes.com
+0.0.0.0 thefader.com
 0.0.0.0 theguardian.com
 0.0.0.0 thehackernews.com
 0.0.0.0 thehill.com
@@ -823,6 +832,7 @@
 0.0.0.0 tidal.com
 0.0.0.0 tiendeo.in
 0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn.com
 0.0.0.0 tilvids.com
 0.0.0.0 time.com
 0.0.0.0 timeout.com
@@ -871,6 +881,7 @@
 0.0.0.0 usnews.com
 0.0.0.0 usplworld.com
 0.0.0.0 uspstudios.co
+0.0.0.0 utreon.com
 0.0.0.0 vanityfair.com
 0.0.0.0 variety.com
 0.0.0.0 vegasshows.us
@@ -910,6 +921,7 @@
 0.0.0.0 wfla.com
 0.0.0.0 whatsonweibo.com
 0.0.0.0 who.int
+0.0.0.0 whosampled.com
 0.0.0.0 whowhatwear.com
 0.0.0.0 windowscentral.com
 0.0.0.0 wionews.com
@@ -924,6 +936,7 @@
 0.0.0.0 xda-developers.com
 0.0.0.0 yahoo.com
 0.0.0.0 yelp.com
+0.0.0.0 yesplz.coffee
 0.0.0.0 you.co.uk
 0.0.0.0 yourstory.com
 0.0.0.0 youtube.com
