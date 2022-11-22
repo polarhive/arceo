@@ -40,6 +40,7 @@
 0.0.0.0 allrecipes.com
 0.0.0.0 amazon.com
 0.0.0.0 amazon.in
+0.0.0.0 ambcrypto.com
 0.0.0.0 americansongwriter.com
 0.0.0.0 amp.dev
 0.0.0.0 analyticsindiamag.com
@@ -60,6 +61,7 @@
 0.0.0.0 asos.com
 0.0.0.0 atlasobscura.com
 0.0.0.0 atmos.earth
+0.0.0.0 atwoodmagazine.com
 0.0.0.0 atxgossip.com
 0.0.0.0 autocarindia.com
 0.0.0.0 autonews.com
@@ -79,6 +81,8 @@
 0.0.0.0 beatport.com
 0.0.0.0 beebom.com
 0.0.0.0 bestbullysticks.com
+0.0.0.0 bgr.com
+0.0.0.0 bgr.in
 0.0.0.0 bhg.com
 0.0.0.0 bigbasket.com
 0.0.0.0 bigbazaar.com
@@ -198,6 +202,7 @@
 0.0.0.0 dailywire.com
 0.0.0.0 dallasnews.com
 0.0.0.0 dataconomy.com
+0.0.0.0 dawn.com
 0.0.0.0 dccomics.com
 0.0.0.0 deadline.com
 0.0.0.0 debugpoint.com
@@ -242,6 +247,7 @@
 0.0.0.0 economist.com
 0.0.0.0 elle.com
 0.0.0.0 elle.com.au
+0.0.0.0 emmys.com
 0.0.0.0 empireofthekop.com
 0.0.0.0 empireonline.com
 0.0.0.0 engadget.com
@@ -330,6 +336,7 @@
 0.0.0.0 google.com
 0.0.0.0 gq.com
 0.0.0.0 gqindia.com
+0.0.0.0 grammy.com
 0.0.0.0 greaterkashmir.com
 0.0.0.0 greatpetcare.com
 0.0.0.0 grid.news
@@ -348,6 +355,7 @@
 0.0.0.0 heremedia.com
 0.0.0.0 hinditracklyrics.com
 0.0.0.0 hindustantimes.com
+0.0.0.0 hiphopcanada.com
 0.0.0.0 hm.com
 0.0.0.0 hmgroup.com
 0.0.0.0 hola.com
@@ -535,6 +543,7 @@
 0.0.0.0 nationalreview.com
 0.0.0.0 nature.com
 0.0.0.0 nba.com
+0.0.0.0 nbc.com
 0.0.0.0 nbc12.com
 0.0.0.0 nbcnews.com
 0.0.0.0 ndtv.com
@@ -604,6 +613,7 @@
 0.0.0.0 opindia.com
 0.0.0.0 oregonlive.com
 0.0.0.0 orfonline.org
+0.0.0.0 oscars.org
 0.0.0.0 otakumode.com
 0.0.0.0 ottawacitizen.com
 0.0.0.0 outlookindia.com
@@ -693,15 +703,18 @@
 0.0.0.0 scmp.com
 0.0.0.0 scoopwhoop.com
 0.0.0.0 scorecardresearch.com
+0.0.0.0 screendaily.com
 0.0.0.0 screenrant.com
 0.0.0.0 scroll.com
 0.0.0.0 scroll.in
 0.0.0.0 searchenginejournal.com
 0.0.0.0 seriouseats.com
 0.0.0.0 sfchronicle.com
+0.0.0.0 sfexaminer.com
 0.0.0.0 sfgate.com
 0.0.0.0 shape.com
 0.0.0.0 shoppre.com
+0.0.0.0 shorefire.com
 0.0.0.0 shortpedia.com
 0.0.0.0 si.com
 0.0.0.0 siasat.com
@@ -781,6 +794,7 @@
 0.0.0.0 teslarati.com
 0.0.0.0 texastribune.org
 0.0.0.0 the-sun.com
+0.0.0.0 theamas.com
 0.0.0.0 theatlantic.com
 0.0.0.0 thebalancemoney.com
 0.0.0.0 thebetterindia.com
@@ -805,6 +819,7 @@
 0.0.0.0 themarkup.org
 0.0.0.0 thenation.com
 0.0.0.0 thenerdstash.com
+0.0.0.0 thenewsminute.com
 0.0.0.0 theonion.com
 0.0.0.0 theprint.in
 0.0.0.0 thequint.com
@@ -845,6 +860,7 @@
 0.0.0.0 today.com
 0.0.0.0 tomsguide.com
 0.0.0.0 tomshardware.com
+0.0.0.0 tonyawards.com
 0.0.0.0 toofab.com
 0.0.0.0 torontosun.com
 0.0.0.0 torrentfreak.com
@@ -926,6 +942,7 @@
 0.0.0.0 windowscentral.com
 0.0.0.0 wionews.com
 0.0.0.0 wired.com
+0.0.0.0 wmagazine.com
 0.0.0.0 woodmagazine.com
 0.0.0.0 worldbank.org
 0.0.0.0 wsj.com
