@@ -79,8 +79,10 @@
 0.0.0.0 bbc.com
 0.0.0.0 bckonline.com
 0.0.0.0 beatport.com
+0.0.0.0 beatsbydre.com
 0.0.0.0 beebom.com
 0.0.0.0 bestbullysticks.com
+0.0.0.0 bet.com
 0.0.0.0 bgr.com
 0.0.0.0 bgr.in
 0.0.0.0 bhg.com
@@ -322,6 +324,7 @@
 0.0.0.0 ghacks.net
 0.0.0.0 github.blog
 0.0.0.0 gizmodo.com
+0.0.0.0 glamcult.com
 0.0.0.0 glamour.com
 0.0.0.0 glamourmagazine.co.uk
 0.0.0.0 glamsham.com
@@ -353,6 +356,7 @@
 0.0.0.0 hellomagazine.com
 0.0.0.0 heraldsun.com.au
 0.0.0.0 heremedia.com
+0.0.0.0 hiddenremote.com
 0.0.0.0 hinditracklyrics.com
 0.0.0.0 hindustantimes.com
 0.0.0.0 hiphopcanada.com
@@ -817,6 +821,7 @@
 0.0.0.0 thelist.com
 0.0.0.0 thelocal.dk
 0.0.0.0 themarkup.org
+0.0.0.0 themoviedb.org
 0.0.0.0 thenation.com
 0.0.0.0 thenerdstash.com
 0.0.0.0 thenewsminute.com
@@ -836,6 +841,7 @@
 0.0.0.0 thesundaytimes.co.uk
 0.0.0.0 theswaddle.com
 0.0.0.0 thetech.com
+0.0.0.0 thethings.com
 0.0.0.0 thetimes.co.uk
 0.0.0.0 thetrendspotter.net
 0.0.0.0 theverge.com
