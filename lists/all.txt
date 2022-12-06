@@ -36,7 +36,7 @@
 0.0.0.0 allaboutthetea.com
 0.0.0.0 allabouttrh.com
 0.0.0.0 allkpop.com
-0.0.0.0 allpeoplequilt.com 
+0.0.0.0 allpeoplequilt.com
 0.0.0.0 allrecipes.com
 0.0.0.0 amazon.com
 0.0.0.0 amazon.in
@@ -45,7 +45,7 @@
 0.0.0.0 amp.dev
 0.0.0.0 analyticsindiamag.com
 0.0.0.0 analyticsinsight.net
-0.0.0.0 androidauthority.com 
+0.0.0.0 androidauthority.com
 0.0.0.0 androidpolice.com
 0.0.0.0 animedao.to
 0.0.0.0 animenewsnetwork.com
@@ -81,6 +81,7 @@
 0.0.0.0 beatport.com
 0.0.0.0 beatsbydre.com
 0.0.0.0 beebom.com
+0.0.0.0 bere.al
 0.0.0.0 bestbullysticks.com
 0.0.0.0 bet.com
 0.0.0.0 bgr.com
@@ -106,7 +107,7 @@
 0.0.0.0 bloomberg.com
 0.0.0.0 bloombergquint.com
 0.0.0.0 bodyandsoul.com.au
-0.0.0.0 boilerroom.tv 
+0.0.0.0 boilerroom.tv
 0.0.0.0 boingboing.net
 0.0.0.0 bollywooddhamaka.in
 0.0.0.0 bollywoodhungama.com
@@ -114,7 +115,7 @@
 0.0.0.0 bookmyshow.com
 0.0.0.0 boostenergy.com
 0.0.0.0 boston.com
-0.0.0.0 boxun.com 
+0.0.0.0 boxun.com
 0.0.0.0 boyculture.com
 0.0.0.0 brides.com
 0.0.0.0 bundesliga.com
@@ -239,6 +240,7 @@
 0.0.0.0 dreddsinfo.com
 0.0.0.0 dunzo.com
 0.0.0.0 dutchnews.nl
+0.0.0.0 dw.com
 0.0.0.0 dwnews.com
 0.0.0.0 ea.com
 0.0.0.0 eatfit.in
@@ -247,6 +249,7 @@
 0.0.0.0 ebay.com
 0.0.0.0 economictimes.com
 0.0.0.0 economist.com
+0.0.0.0 educationtimes.com
 0.0.0.0 elle.com
 0.0.0.0 elle.com.au
 0.0.0.0 emmys.com
@@ -269,6 +272,7 @@
 0.0.0.0 eurosport.com
 0.0.0.0 evilbeetgossip.com
 0.0.0.0 ew.com
+0.0.0.0 exchange.art
 0.0.0.0 express.co.uk
 0.0.0.0 extratv.com
 0.0.0.0 facebook.com
@@ -347,6 +351,7 @@
 0.0.0.0 gsmarena.com
 0.0.0.0 harpersbazaar.com
 0.0.0.0 hbo.com
+0.0.0.0 hbomax.com
 0.0.0.0 hbr.org
 0.0.0.0 hcn.org
 0.0.0.0 health.com
@@ -397,6 +402,7 @@
 0.0.0.0 indianexpress.com
 0.0.0.0 indiatimes.com
 0.0.0.0 indiatoday.in
+0.0.0.0 indiatv.in
 0.0.0.0 indiatvnews.com
 0.0.0.0 indy100.com
 0.0.0.0 inews.co.uk
@@ -466,6 +472,7 @@
 0.0.0.0 linkedin.com
 0.0.0.0 linustechtips.com
 0.0.0.0 linux-magazine.com
+0.0.0.0 linuxhint.com
 0.0.0.0 linuxinsider.com
 0.0.0.0 linuxjournal.com
 0.0.0.0 linuxstoney.com
@@ -485,7 +492,7 @@
 0.0.0.0 lwn.net
 0.0.0.0 lxer.com
 0.0.0.0 magazine.co.uk
-0.0.0.0 magazines.com 
+0.0.0.0 magazines.com
 0.0.0.0 makemytrip.com
 0.0.0.0 makeupandbeauty.com
 0.0.0.0 makeuseof.com
@@ -520,7 +527,7 @@
 0.0.0.0 minecraft.net
 0.0.0.0 mirror.co.uk
 0.0.0.0 missmalini.com
-0.0.0.0 mixcloud.com 
+0.0.0.0 mixcloud.com
 0.0.0.0 mojang.com
 0.0.0.0 money.com
 0.0.0.0 moneycontrol.com
@@ -594,7 +601,7 @@
 0.0.0.0 noemamag.com
 0.0.0.0 nordenbladet.com
 0.0.0.0 notion.online
-0.0.0.0 noxinfluencer.com 
+0.0.0.0 noxinfluencer.com
 0.0.0.0 npr.org
 0.0.0.0 npttech.com
 0.0.0.0 nykaa.com
@@ -651,7 +658,8 @@
 0.0.0.0 pixelfed.social
 0.0.0.0 pizzahut.co.in
 0.0.0.0 play.date
-0.0.0.0 pluggedin.com 
+0.0.0.0 playstation.com
+0.0.0.0 pluggedin.com
 0.0.0.0 pointieststick.com
 0.0.0.0 politico.com
 0.0.0.0 politifact.com
@@ -735,6 +743,7 @@
 0.0.0.0 snapdeal.co
 0.0.0.0 sneakernews.com
 0.0.0.0 snigelweb.com
+0.0.0.0 snopes.com
 0.0.0.0 soapoperadigest.com
 0.0.0.0 socialitelife.com
 0.0.0.0 softpedia.com
@@ -780,6 +789,7 @@
 0.0.0.0 target.com
 0.0.0.0 tastingtable.com
 0.0.0.0 team-bhp.com
+0.0.0.0 techbriefly.com
 0.0.0.0 techcrunch.com
 0.0.0.0 techdows.com
 0.0.0.0 techhive.com
@@ -831,7 +841,7 @@
 0.0.0.0 theregister.com
 0.0.0.0 theshaderoom.com
 0.0.0.0 thesouledstore.com
-0.0.0.0 thespruce.com 
+0.0.0.0 thespruce.com
 0.0.0.0 thespruceeats.com
 0.0.0.0 thespun.com
 0.0.0.0 thestar.com
@@ -912,6 +922,7 @@
 0.0.0.0 verywellfit.com
 0.0.0.0 verywellhealth.com
 0.0.0.0 verywellmind.com
+0.0.0.0 vessi.com
 0.0.0.0 viacom18.com
 0.0.0.0 vice.com
 0.0.0.0 videos.lukesmith.xyz
@@ -964,7 +975,7 @@
 0.0.0.0 yourstory.com
 0.0.0.0 youtube.com
 0.0.0.0 zdnet.com
-0.0.0.0 zee5.com 
+0.0.0.0 zee5.com
 0.0.0.0 zigwheels.com
 0.0.0.0 zomato.com
 0.0.0.0 zoomtventertainment.com
