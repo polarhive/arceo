@@ -22,6 +22,7 @@
 0.0.0.0 adage.com
 0.0.0.0 adidas.com
 0.0.0.0 adn.com
+0.0.0.0 adultswim.com
 0.0.0.0 advocate.com
 0.0.0.0 aeon.co
 0.0.0.0 agriculture.com
@@ -63,6 +64,7 @@
 0.0.0.0 atmos.earth
 0.0.0.0 atwoodmagazine.com
 0.0.0.0 atxgossip.com
+0.0.0.0 auralcrave.com
 0.0.0.0 autocarindia.com
 0.0.0.0 autonews.com
 0.0.0.0 autoweek.com
@@ -117,6 +119,7 @@
 0.0.0.0 boston.com
 0.0.0.0 boxun.com
 0.0.0.0 boyculture.com
+0.0.0.0 brave.com
 0.0.0.0 brides.com
 0.0.0.0 bundesliga.com
 0.0.0.0 business-standard.com
@@ -218,6 +221,7 @@
 0.0.0.0 dev.to
 0.0.0.0 devclass.com
 0.0.0.0 deviantart.com
+0.0.0.0 dexerto.com
 0.0.0.0 digg.com
 0.0.0.0 digiday.com
 0.0.0.0 digitalcameraworld.com
@@ -238,7 +242,9 @@
 0.0.0.0 dotexe.com
 0.0.0.0 dove.com
 0.0.0.0 dreddsinfo.com
+0.0.0.0 drivespark.com
 0.0.0.0 dunzo.com
+0.0.0.0 dustyorgan.com
 0.0.0.0 dutchnews.nl
 0.0.0.0 dw.com
 0.0.0.0 dwnews.com
@@ -400,6 +406,7 @@
 0.0.0.0 independent.co.uk
 0.0.0.0 india.com
 0.0.0.0 indianexpress.com
+0.0.0.0 indiaonenews.in
 0.0.0.0 indiatimes.com
 0.0.0.0 indiatoday.in
 0.0.0.0 indiatv.in
@@ -428,6 +435,7 @@
 0.0.0.0 jango.com
 0.0.0.0 japantimes.co.jp
 0.0.0.0 japantoday.com
+0.0.0.0 jezebel.com
 0.0.0.0 jiosaavn.com
 0.0.0.0 jockey.in
 0.0.0.0 jockeyinternational.com
@@ -491,6 +499,7 @@
 0.0.0.0 lulu.com
 0.0.0.0 lwn.net
 0.0.0.0 lxer.com
+0.0.0.0 lyricinterpretations.com
 0.0.0.0 magazine.co.uk
 0.0.0.0 magazines.com
 0.0.0.0 makemytrip.com
@@ -534,6 +543,7 @@
 0.0.0.0 moneywatch.com
 0.0.0.0 monki.com
 0.0.0.0 montrealgazette.com
+0.0.0.0 moparinsiders.com
 0.0.0.0 morningstaronline.co.uk
 0.0.0.0 motor1.com
 0.0.0.0 motorauthority.com
@@ -715,11 +725,13 @@
 0.0.0.0 scmp.com
 0.0.0.0 scoopwhoop.com
 0.0.0.0 scorecardresearch.com
+0.0.0.0 scotsman.com
 0.0.0.0 screendaily.com
 0.0.0.0 screenrant.com
 0.0.0.0 scroll.com
 0.0.0.0 scroll.in
 0.0.0.0 searchenginejournal.com
+0.0.0.0 self.com
 0.0.0.0 seriouseats.com
 0.0.0.0 sfchronicle.com
 0.0.0.0 sfexaminer.com
@@ -734,6 +746,7 @@
 0.0.0.0 simplyrecipes.com
 0.0.0.0 sixthtone.com
 0.0.0.0 skysports.com
+0.0.0.0 slantmagazine.com
 0.0.0.0 slashdot.org
 0.0.0.0 slashgear.com
 0.0.0.0 slate.com
@@ -747,6 +760,8 @@
 0.0.0.0 soapoperadigest.com
 0.0.0.0 socialitelife.com
 0.0.0.0 softpedia.com
+0.0.0.0 songfacts.com
+0.0.0.0 songmeanings.com
 0.0.0.0 sonyliv.com
 0.0.0.0 soompi.com
 0.0.0.0 soundcloud.com
@@ -771,6 +786,7 @@
 0.0.0.0 stocktwits.com
 0.0.0.0 store.epicgames.com
 0.0.0.0 store.steampowered.com
+0.0.0.0 storyofsong.com
 0.0.0.0 straitstimes.com
 0.0.0.0 stuff.co.nz
 0.0.0.0 stylecaster.com
@@ -791,6 +807,7 @@
 0.0.0.0 team-bhp.com
 0.0.0.0 techbriefly.com
 0.0.0.0 techcrunch.com
+0.0.0.0 techdirt.com
 0.0.0.0 techdows.com
 0.0.0.0 techhive.com
 0.0.0.0 techradar.com
@@ -804,6 +821,7 @@
 0.0.0.0 telegraaf.nl
 0.0.0.0 telegraph.co.uk
 0.0.0.0 telegraphindia.com
+0.0.0.0 tennessean.com
 0.0.0.0 terezowens.com
 0.0.0.0 teslarati.com
 0.0.0.0 texastribune.org
@@ -878,6 +896,7 @@
 0.0.0.0 tomshardware.com
 0.0.0.0 tonyawards.com
 0.0.0.0 toofab.com
+0.0.0.0 topnewreview.com
 0.0.0.0 torontosun.com
 0.0.0.0 torrentfreak.com
 0.0.0.0 townandcountrymag.com
@@ -889,6 +908,7 @@
 0.0.0.0 treehugger.com
 0.0.0.0 tributetomagazine.com
 0.0.0.0 triller.co
+0.0.0.0 tripadvisor.com
 0.0.0.0 tripadvisor.in
 0.0.0.0 tripsavvy.com
 0.0.0.0 trtworld.com
@@ -937,6 +957,8 @@
 0.0.0.0 voot.com
 0.0.0.0 vox.com
 0.0.0.0 voxmedia.com
+0.0.0.0 vsco.co
+0.0.0.0 vulture.com
 0.0.0.0 wagwalking.com
 0.0.0.0 walgreens.com
 0.0.0.0 walmart.com
@@ -965,6 +987,7 @@
 0.0.0.0 wsj.com
 0.0.0.0 wsj.net
 0.0.0.0 wtae.com
+0.0.0.0 wtol.com
 0.0.0.0 www3.nhk.or.jp
 0.0.0.0 xbox.com
 0.0.0.0 xda-developers.com
