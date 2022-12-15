@@ -70,6 +70,7 @@
 0.0.0.0 autoweek.com
 0.0.0.0 avclub.com
 0.0.0.0 axios.com
+0.0.0.0 balenciaga.com
 0.0.0.0 balleralert.com
 0.0.0.0 bandcamp.com
 0.0.0.0 barcauniversal.com
@@ -291,6 +292,7 @@
 0.0.0.0 fashionunited.in
 0.0.0.0 fastcompany.com
 0.0.0.0 fatherly.com
+0.0.0.0 fbcdn.net
 0.0.0.0 feedspot.com
 0.0.0.0 femalefirst.co.uk
 0.0.0.0 fifa.com
@@ -309,15 +311,16 @@
 0.0.0.0 football.london
 0.0.0.0 footwearnews.com
 0.0.0.0 forbes.com
+0.0.0.0 forbesindia.com
 0.0.0.0 fortune.com
 0.0.0.0 forummalls.in
 0.0.0.0 forward.com
 0.0.0.0 fossbytes.com
-0.0.0.0 fosstodon.org
 0.0.0.0 foxbusiness.com
 0.0.0.0 foxnews.com
 0.0.0.0 france24.com
 0.0.0.0 freepressjournal.in
+0.0.0.0 fresherslive.com
 0.0.0.0 ft.com
 0.0.0.0 fubo.tv
 0.0.0.0 funimation.com
@@ -347,6 +350,7 @@
 0.0.0.0 gogoanime.ar
 0.0.0.0 goodnewsnetwork.org
 0.0.0.0 google.com
+0.0.0.0 goop.com
 0.0.0.0 gq.com
 0.0.0.0 gqindia.com
 0.0.0.0 grammy.com
@@ -420,6 +424,7 @@
 0.0.0.0 insidefutbol.com
 0.0.0.0 insider.com
 0.0.0.0 insider.in
+0.0.0.0 instagr.am
 0.0.0.0 instagram.com
 0.0.0.0 instyle.com
 0.0.0.0 intouchweekly.com
@@ -466,11 +471,9 @@
 0.0.0.0 lbb.in
 0.0.0.0 leadership.ng
 0.0.0.0 leagueoflegends.com
+0.0.0.0 lemillindia.com
 0.0.0.0 lemmy.ml
 0.0.0.0 letterboxd.com
-0.0.0.0 libredd.it
-0.0.0.0 libreddit.kavin.rocks
-0.0.0.0 libreddit.spike.codes
 0.0.0.0 lifeandstylemag.com
 0.0.0.0 lifehacker.com
 0.0.0.0 lifestylestores.com
@@ -515,7 +518,6 @@
 0.0.0.0 mashable.com
 0.0.0.0 masslive.com
 0.0.0.0 masterani.one
-0.0.0.0 mastodon.social
 0.0.0.0 mathrubhumi.com
 0.0.0.0 mcdonalds.com
 0.0.0.0 medelita.com
@@ -555,6 +557,7 @@
 0.0.0.0 mtv.com
 0.0.0.0 music.amazon.com
 0.0.0.0 music.apple.com
+0.0.0.0 mydelsu.com
 0.0.0.0 mydomaine.com
 0.0.0.0 myfinance.com
 0.0.0.0 myntra.com
@@ -578,7 +581,6 @@
 0.0.0.0 news.cn
 0.0.0.0 news.cornell.edu
 0.0.0.0 news.gallup.com
-0.0.0.0 news.google.com
 0.0.0.0 news.mit.edu
 0.0.0.0 news.sky.com
 0.0.0.0 news.xbox.com
@@ -600,7 +602,6 @@
 0.0.0.0 nike.com
 0.0.0.0 nine.com.au
 0.0.0.0 nintendo.com
-0.0.0.0 nitter.net
 0.0.0.0 nivea.co.uk
 0.0.0.0 nivea.com
 0.0.0.0 nivea.com.au
@@ -629,7 +630,6 @@
 0.0.0.0 omgubuntu.co.uk
 0.0.0.0 onmanorama.com
 0.0.0.0 onmsft.com
-0.0.0.0 open.spotify.com
 0.0.0.0 opensea.io
 0.0.0.0 opindia.com
 0.0.0.0 oregonlive.com
@@ -657,15 +657,14 @@
 0.0.0.0 pepsico.com
 0.0.0.0 perezhilton.com
 0.0.0.0 permutive.com
+0.0.0.0 petapixel.com
 0.0.0.0 pettable.com
 0.0.0.0 phoronix.com
 0.0.0.0 pinknews.co.uk
 0.0.0.0 pinkvilla.com
 0.0.0.0 pinterest.com
-0.0.0.0 piped.kavin.rocks
 0.0.0.0 pitchfork.com
 0.0.0.0 pixar.com
-0.0.0.0 pixelfed.social
 0.0.0.0 pizzahut.co.in
 0.0.0.0 play.date
 0.0.0.0 playstation.com
@@ -699,6 +698,7 @@
 0.0.0.0 realsimple.com
 0.0.0.0 reason.com
 0.0.0.0 reclaimthenet.org
+0.0.0.0 redd.it
 0.0.0.0 reddit.com
 0.0.0.0 rediff.com
 0.0.0.0 refinery29.com
@@ -745,6 +745,7 @@
 0.0.0.0 siliconangle.com
 0.0.0.0 simplyrecipes.com
 0.0.0.0 sixthtone.com
+0.0.0.0 skinn.in
 0.0.0.0 skysports.com
 0.0.0.0 slantmagazine.com
 0.0.0.0 slashdot.org
@@ -772,6 +773,7 @@
 0.0.0.0 space.com
 0.0.0.0 spicyonion.com
 0.0.0.0 spieltimes.com
+0.0.0.0 spockandchristine.com
 0.0.0.0 sportingnews.com
 0.0.0.0 sportskeeda.com
 0.0.0.0 sportsmole.co.uk
@@ -816,7 +818,6 @@
 0.0.0.0 techtarget.com
 0.0.0.0 techviral.net
 0.0.0.0 ted.com
-0.0.0.0 teddit.net
 0.0.0.0 teenvogue.com
 0.0.0.0 telegraaf.nl
 0.0.0.0 telegraph.co.uk
@@ -889,6 +890,7 @@
 0.0.0.0 timesnownews.com
 0.0.0.0 timesofisrael.com
 0.0.0.0 tinder.com
+0.0.0.0 titan.co.in
 0.0.0.0 tlc.com
 0.0.0.0 tmz.com
 0.0.0.0 today.com
@@ -989,6 +991,7 @@
 0.0.0.0 wtae.com
 0.0.0.0 wtol.com
 0.0.0.0 www3.nhk.or.jp
+0.0.0.0 wynk.in
 0.0.0.0 xbox.com
 0.0.0.0 xda-developers.com
 0.0.0.0 yahoo.com
@@ -996,6 +999,7 @@
 0.0.0.0 yesplz.coffee
 0.0.0.0 you.co.uk
 0.0.0.0 yourstory.com
+0.0.0.0 youtu.be
 0.0.0.0 youtube.com
 0.0.0.0 zdnet.com
 0.0.0.0 zee5.com
