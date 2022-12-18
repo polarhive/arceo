@@ -1,4 +1,4 @@
-! Description: blocklist against social media, news, entertainment & consumerism https://polarhive.ml/arceo
+! Description: blocklist against social media, news, entertainment & consumerism
 ! Homepage: https://polarhive.ml/arceo
 ! Licence: https://www.gnu.org/licenses/gpl-3.0.txt
 ! Title: arceo
