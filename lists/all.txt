@@ -1,4 +1,7 @@
-# UPSTREAM: https://polarhive.ml/arceo
+! Description: blocklist against social media, news, entertainment & consumerism https://polarhive.ml/arceo
+! Homepage: https://polarhive.ml/arceo
+! Licence: https://www.gnu.org/licenses/gpl-3.0.txt
+! Title: arceo
 0.0.0.0 4chan.org
 0.0.0.0 4channel.org
 0.0.0.0 60secondsnow.com
@@ -17,6 +20,7 @@
 0.0.0.0 abc7chicago.com
 0.0.0.0 abcactionnews.com
 0.0.0.0 abcnews.go.com
+0.0.0.0 abplive.com
 0.0.0.0 accessonline.com
 0.0.0.0 activisionblizzard.com
 0.0.0.0 adage.com
@@ -39,6 +43,7 @@
 0.0.0.0 allkpop.com
 0.0.0.0 allpeoplequilt.com
 0.0.0.0 allrecipes.com
+0.0.0.0 amarujala.com
 0.0.0.0 amazon.com
 0.0.0.0 amazon.in
 0.0.0.0 ambcrypto.com
@@ -69,7 +74,9 @@
 0.0.0.0 autonews.com
 0.0.0.0 autoweek.com
 0.0.0.0 avclub.com
+0.0.0.0 avenuemail.in
 0.0.0.0 axios.com
+0.0.0.0 azlyrics.com
 0.0.0.0 balenciaga.com
 0.0.0.0 balleralert.com
 0.0.0.0 bandcamp.com
@@ -202,6 +209,7 @@
 0.0.0.0 cult.fit
 0.0.0.0 curiositystream.com
 0.0.0.0 daijiworld.com
+0.0.0.0 dailycal.org
 0.0.0.0 dailycaller.com
 0.0.0.0 dailydot.com
 0.0.0.0 dailymail.co.uk
@@ -216,11 +224,13 @@
 0.0.0.0 deccanherald.com
 0.0.0.0 decider.com
 0.0.0.0 decrypt.co
+0.0.0.0 deezer.com
 0.0.0.0 defense.gov
 0.0.0.0 democracynow.org
 0.0.0.0 deseret.com
 0.0.0.0 dev.to
 0.0.0.0 devclass.com
+0.0.0.0 devdiscourse.com
 0.0.0.0 deviantart.com
 0.0.0.0 dexerto.com
 0.0.0.0 digg.com
@@ -229,6 +239,7 @@
 0.0.0.0 digitalspy.com
 0.0.0.0 digitaltrends.com
 0.0.0.0 directv.com
+0.0.0.0 discogs.com
 0.0.0.0 discord.com
 0.0.0.0 disney.com
 0.0.0.0 disneyplus.com
@@ -259,6 +270,7 @@
 0.0.0.0 educationtimes.com
 0.0.0.0 elle.com
 0.0.0.0 elle.com.au
+0.0.0.0 ellgeebe.com
 0.0.0.0 emmys.com
 0.0.0.0 empireofthekop.com
 0.0.0.0 empireonline.com
@@ -441,6 +453,7 @@
 0.0.0.0 japantimes.co.jp
 0.0.0.0 japantoday.com
 0.0.0.0 jezebel.com
+0.0.0.0 jhunewsletter.com
 0.0.0.0 jiosaavn.com
 0.0.0.0 jockey.in
 0.0.0.0 jockeyinternational.com
@@ -493,6 +506,7 @@
 0.0.0.0 liveakhbar.in
 0.0.0.0 livehindustan.com
 0.0.0.0 livejournal.com
+0.0.0.0 livelaw.in
 0.0.0.0 livemint.com
 0.0.0.0 liverpoolecho.co.uk
 0.0.0.0 looper.com
@@ -513,6 +527,7 @@
 0.0.0.0 marieclaire.com
 0.0.0.0 marieclaire.com.au
 0.0.0.0 marketwatch.com
+0.0.0.0 marriedbiography.com
 0.0.0.0 marthastewart.com
 0.0.0.0 marvel.com
 0.0.0.0 mashable.com
@@ -530,6 +545,7 @@
 0.0.0.0 metacritic.com
 0.0.0.0 metalinjection.net
 0.0.0.0 metro.co.uk
+0.0.0.0 metrotimes.com
 0.0.0.0 mic.com
 0.0.0.0 microsoft.com
 0.0.0.0 mid-day.com
@@ -673,7 +689,9 @@
 0.0.0.0 politico.com
 0.0.0.0 politifact.com
 0.0.0.0 polygon.com
+0.0.0.0 polyvinylrecords.com
 0.0.0.0 popsugar.com
+0.0.0.0 prabhatkhabar.com
 0.0.0.0 premierleague.com
 0.0.0.0 pressgazette.co.uk
 0.0.0.0 pride.com
@@ -731,12 +749,15 @@
 0.0.0.0 scroll.com
 0.0.0.0 scroll.in
 0.0.0.0 searchenginejournal.com
+0.0.0.0 seasidecitysiren.com
+0.0.0.0 seatgeek.com
 0.0.0.0 self.com
 0.0.0.0 seriouseats.com
 0.0.0.0 sfchronicle.com
 0.0.0.0 sfexaminer.com
 0.0.0.0 sfgate.com
 0.0.0.0 shape.com
+0.0.0.0 sheeshmedia.com
 0.0.0.0 shoppre.com
 0.0.0.0 shorefire.com
 0.0.0.0 shortpedia.com
@@ -790,6 +811,7 @@
 0.0.0.0 store.steampowered.com
 0.0.0.0 storyofsong.com
 0.0.0.0 straitstimes.com
+0.0.0.0 studycafe.in
 0.0.0.0 stuff.co.nz
 0.0.0.0 stylecaster.com
 0.0.0.0 stylecraze.com
@@ -838,6 +860,7 @@
 0.0.0.0 thediplomat.com
 0.0.0.0 thedirect.com
 0.0.0.0 theepochtimes.com
+0.0.0.0 thefactsite.com
 0.0.0.0 thefader.com
 0.0.0.0 theguardian.com
 0.0.0.0 thehackernews.com
@@ -874,6 +897,7 @@
 0.0.0.0 thetimes.co.uk
 0.0.0.0 thetrendspotter.net
 0.0.0.0 theverge.com
+0.0.0.0 thevinylfactory.com
 0.0.0.0 thewestsideshop.com
 0.0.0.0 thewire.in
 0.0.0.0 theybf.com
@@ -931,6 +955,7 @@
 0.0.0.0 uproxx.com
 0.0.0.0 urbandictionary.com
 0.0.0.0 usatoday.com
+0.0.0.0 usblahmeblah.online
 0.0.0.0 usmagazine.com
 0.0.0.0 usnews.com
 0.0.0.0 usplworld.com
@@ -999,6 +1024,7 @@
 0.0.0.0 yesplz.coffee
 0.0.0.0 you.co.uk
 0.0.0.0 yourstory.com
+0.0.0.0 yourstru.ly
 0.0.0.0 youtu.be
 0.0.0.0 youtube.com
 0.0.0.0 zdnet.com

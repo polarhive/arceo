@@ -3,14 +3,26 @@
 ``` text
 > A soft-blocklist against social media, news, entertainment & consumerism
 ```
+## Use blocklist
 
-Add [this url](https://codeberg.org/polarhive/arceo/raw/branch/main/lists/all.txt) to uBlock Origin - under ``custom filter lists``
+[![uBO — add this filter](ubo.svg)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fcodeberg.org%2Fpolarhive%2Farceo%2Fraw%2Fbranch%2Fmain%2Flists%2Fall.txt&title=arceo)
 
-Alternatively, append it to your `/etc/hosts` file for hard-blocking sites.
+<details>
+<summary>Import uBlock filters manually</summary>
+
+
+  1. Open uBlock Origin settings
+  2. Under the "Filter lists" tab, scroll to the bottom where it says “Custom” and click the “Import” checkbox to reveal the custom URL textbox
+  3. Append the URL `https://codeberg.org/polarhive/arceo/raw/branch/main/lists/all.txt` in the textbox
+  4. Press `Apply Changes` in the upper left
+
+</details>
+
+Alternatively, append the domains to your `/etc/hosts` file for hard-blocking sites.
 
 ## What's soft-blocking? 
 
-When you use uBlock Origin - you can temporarily whitelist the site to load content should you need it. Cold Turkey? Block websites systemwide. Append the blocklist to your `/etc/hosts` file. But unblocking sites takes a bit more time. This friction should work to your advantage.
+When you use uBlock Origin — you can temporarily whitelist the site to load content should you need it. Cold Turkey? Block websites system-wide. Append the blocklist to your `/etc/hosts` file. But unblocking sites takes a bit more time. This friction should work to your advantage.
 
 ## Wanna add a site? 
 
@@ -27,7 +39,7 @@ Generally I get all my news via RSS feeds via [newsboat](https://polarhive.ml/do
 ### What's with the name?
 
 ``` text
-arceo - Latin word meaning ~ 'keeping away' or 'preventing'
+arceo: Latin word meaning — 'keeping away' or 'preventing'
 ```
 ---
 This repo is hosted on [Codeberg](https://polarhive.ml/arceo) & mirrored to [GitHub](https://polarhive.ml/github) for traffic.
