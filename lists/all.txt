@@ -24,6 +24,7 @@
 0.0.0.0 accessonline.com
 0.0.0.0 activisionblizzard.com
 0.0.0.0 adage.com
+0.0.0.0 adidas.co.in
 0.0.0.0 adidas.com
 0.0.0.0 adn.com
 0.0.0.0 adultswim.com
@@ -279,6 +280,7 @@
 0.0.0.0 entertainmentwise.com
 0.0.0.0 entrepreneur.com
 0.0.0.0 eonline.com
+0.0.0.0 epicgames.com
 0.0.0.0 espn.com
 0.0.0.0 espn.in
 0.0.0.0 espncricinfo.com
@@ -473,7 +475,9 @@
 0.0.0.0 kotaku.com
 0.0.0.0 kpopstarz.com
 0.0.0.0 kqed.org
+0.0.0.0 kreedon.com
 0.0.0.0 krqe.com
+0.0.0.0 krunker.io
 0.0.0.0 kwalitywalls.in
 0.0.0.0 laineygossip.com
 0.0.0.0 landsend.com
@@ -552,6 +556,7 @@
 0.0.0.0 midwestliving.com
 0.0.0.0 minds.com
 0.0.0.0 minecraft.net
+0.0.0.0 miniclip.com
 0.0.0.0 mirror.co.uk
 0.0.0.0 missmalini.com
 0.0.0.0 mixcloud.com
@@ -806,9 +811,8 @@
 0.0.0.0 starsinfoworld.com
 0.0.0.0 startuptoenterprise.com
 0.0.0.0 statesman.com
+0.0.0.0 steampowered.com
 0.0.0.0 stocktwits.com
-0.0.0.0 store.epicgames.com
-0.0.0.0 store.steampowered.com
 0.0.0.0 storyofsong.com
 0.0.0.0 straitstimes.com
 0.0.0.0 studycafe.in
@@ -828,6 +832,7 @@
 0.0.0.0 tankmagazine.com
 0.0.0.0 target.com
 0.0.0.0 tastingtable.com
+0.0.0.0 tatacliq.com
 0.0.0.0 team-bhp.com
 0.0.0.0 techbriefly.com
 0.0.0.0 techcrunch.com
@@ -1022,6 +1027,7 @@
 0.0.0.0 yahoo.com
 0.0.0.0 yelp.com
 0.0.0.0 yesplz.coffee
+0.0.0.0 yoreoyster.com
 0.0.0.0 you.co.uk
 0.0.0.0 yourstory.com
 0.0.0.0 yourstru.ly
