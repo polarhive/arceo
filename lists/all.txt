@@ -31,6 +31,7 @@
 0.0.0.0 advocate.com
 0.0.0.0 aeon.co
 0.0.0.0 agriculture.com
+0.0.0.0 ahmedabadmirror.com
 0.0.0.0 aiobot.com
 0.0.0.0 ajc.com
 0.0.0.0 ajio.com
@@ -54,6 +55,7 @@
 0.0.0.0 analyticsinsight.net
 0.0.0.0 androidauthority.com
 0.0.0.0 androidpolice.com
+0.0.0.0 andscape.com
 0.0.0.0 animedao.to
 0.0.0.0 animenewsnetwork.com
 0.0.0.0 aninews.in
@@ -62,8 +64,10 @@
 0.0.0.0 apple.com
 0.0.0.0 appledaily.com.tw
 0.0.0.0 arabnews.com
+0.0.0.0 arcattoscana.org
 0.0.0.0 arkansasonline.com
 0.0.0.0 arstechnica.com
+0.0.0.0 artnet.com
 0.0.0.0 asianetnews.com
 0.0.0.0 asos.com
 0.0.0.0 atlasobscura.com
@@ -104,8 +108,10 @@
 0.0.0.0 bikewale.com
 0.0.0.0 billboard.com
 0.0.0.0 bing.com
+0.0.0.0 binged.com
 0.0.0.0 bitchute.com
 0.0.0.0 bitrates.com
+0.0.0.0 bizasialive.com
 0.0.0.0 blackpinkmusic.com
 0.0.0.0 bleacherreport.com
 0.0.0.0 bleepingcomputer.com
@@ -172,6 +178,7 @@
 0.0.0.0 cincinnati.com
 0.0.0.0 cineblitz.in
 0.0.0.0 cinemablend.com
+0.0.0.0 cinemaexpress.com
 0.0.0.0 closerweekly.com
 0.0.0.0 cloud7.news
 0.0.0.0 cnbc.com
@@ -215,6 +222,7 @@
 0.0.0.0 dailydot.com
 0.0.0.0 dailymail.co.uk
 0.0.0.0 dailymotion.com
+0.0.0.0 dailypioneer.com
 0.0.0.0 dailywire.com
 0.0.0.0 dallasnews.com
 0.0.0.0 dataconomy.com
@@ -262,6 +270,7 @@
 0.0.0.0 dw.com
 0.0.0.0 dwnews.com
 0.0.0.0 ea.com
+0.0.0.0 eastmojo.com
 0.0.0.0 eatfit.in
 0.0.0.0 eatingwell.com
 0.0.0.0 ebay.co.uk
@@ -312,6 +321,7 @@
 0.0.0.0 fifa.com
 0.0.0.0 filmcompanion.in
 0.0.0.0 filmfare.com
+0.0.0.0 filmibeat.com
 0.0.0.0 filmistory.com
 0.0.0.0 filmspeak.org
 0.0.0.0 financialexpress.com
@@ -407,11 +417,13 @@
 0.0.0.0 hypem.com
 0.0.0.0 ians.in
 0.0.0.0 ibighit.com
+0.0.0.0 ibtimes.co.in
 0.0.0.0 ibtimes.com
 0.0.0.0 icc-cricket.com
 0.0.0.0 idiva.com
 0.0.0.0 iffy.news
 0.0.0.0 ifunny.co
+0.0.0.0 iglobalnews.com
 0.0.0.0 ign.com
 0.0.0.0 iheart.com
 0.0.0.0 ikea.com
@@ -423,6 +435,7 @@
 0.0.0.0 indeed.com
 0.0.0.0 independent.co.uk
 0.0.0.0 india.com
+0.0.0.0 indiaforums.com
 0.0.0.0 indianexpress.com
 0.0.0.0 indiaonenews.in
 0.0.0.0 indiatimes.com
@@ -456,6 +469,7 @@
 0.0.0.0 japantoday.com
 0.0.0.0 jezebel.com
 0.0.0.0 jhunewsletter.com
+0.0.0.0 jiocinema.com
 0.0.0.0 jiosaavn.com
 0.0.0.0 jockey.in
 0.0.0.0 jockeyinternational.com
@@ -464,6 +478,7 @@
 0.0.0.0 justjared.com
 0.0.0.0 kayak.co.in
 0.0.0.0 kayak.com
+0.0.0.0 keralakaumudi.com
 0.0.0.0 kfc.com
 0.0.0.0 khaskhabar.com
 0.0.0.0 khelnow.com
@@ -515,6 +530,7 @@
 0.0.0.0 liverpoolecho.co.uk
 0.0.0.0 looper.com
 0.0.0.0 loreal.com
+0.0.0.0 louvre.fr
 0.0.0.0 ltn.com.tw
 0.0.0.0 lucasfilm.com
 0.0.0.0 lulu.com
@@ -544,6 +560,7 @@
 0.0.0.0 medium.com
 0.0.0.0 melmagazine.com
 0.0.0.0 menshealth.com
+0.0.0.0 mensxp.com
 0.0.0.0 mentalfloss.com
 0.0.0.0 messenger.com
 0.0.0.0 metacritic.com
@@ -554,6 +571,7 @@
 0.0.0.0 microsoft.com
 0.0.0.0 mid-day.com
 0.0.0.0 midwestliving.com
+0.0.0.0 millenniumpost.in
 0.0.0.0 minds.com
 0.0.0.0 minecraft.net
 0.0.0.0 miniclip.com
@@ -607,11 +625,14 @@
 0.0.0.0 news.xbox.com
 0.0.0.0 news.ycombinator.com
 0.0.0.0 news18.com
+0.0.0.0 news9live.com
 0.0.0.0 newsbytesapp.com
 0.0.0.0 newscientist.com
+0.0.0.0 newsdrum.in
 0.0.0.0 newsgram.com
 0.0.0.0 newsguardtech.com
 0.0.0.0 newslaundry.com
+0.0.0.0 newslivetv.com
 0.0.0.0 newsmax.com
 0.0.0.0 newsroompost.com
 0.0.0.0 newsweek.com
@@ -649,6 +670,7 @@
 0.0.0.0 okmagazine.com
 0.0.0.0 oldest.org
 0.0.0.0 omgubuntu.co.uk
+0.0.0.0 oneindia.com
 0.0.0.0 onmanorama.com
 0.0.0.0 onmsft.com
 0.0.0.0 opensea.io
@@ -670,6 +692,7 @@
 0.0.0.0 pcmag.com
 0.0.0.0 pcworld.com
 0.0.0.0 peacocktv.com
+0.0.0.0 peepingmoon.com
 0.0.0.0 people.com
 0.0.0.0 people.com.cn
 0.0.0.0 peopleenespanol.com
@@ -696,6 +719,7 @@
 0.0.0.0 polygon.com
 0.0.0.0 polyvinylrecords.com
 0.0.0.0 popsugar.com
+0.0.0.0 postsen.com
 0.0.0.0 prabhatkhabar.com
 0.0.0.0 premierleague.com
 0.0.0.0 pressgazette.co.uk
@@ -714,6 +738,7 @@
 0.0.0.0 quora.com
 0.0.0.0 qz.com
 0.0.0.0 radaronline.com
+0.0.0.0 radiocity.in
 0.0.0.0 rap-up.com
 0.0.0.0 rateyourmusic.com
 0.0.0.0 rd.com
@@ -742,6 +767,7 @@
 0.0.0.0 rumble.com
 0.0.0.0 russiatoday.com
 0.0.0.0 sacbee.com
+0.0.0.0 sacnilk.com
 0.0.0.0 salon.com
 0.0.0.0 sandiegouniontribune.com
 0.0.0.0 sandrarose.com
@@ -800,6 +826,7 @@
 0.0.0.0 spicyonion.com
 0.0.0.0 spieltimes.com
 0.0.0.0 spockandchristine.com
+0.0.0.0 sportbible.com
 0.0.0.0 sportingnews.com
 0.0.0.0 sportskeeda.com
 0.0.0.0 sportsmole.co.uk
@@ -846,15 +873,19 @@
 0.0.0.0 techviral.net
 0.0.0.0 ted.com
 0.0.0.0 teenvogue.com
+0.0.0.0 telanganatoday.com
 0.0.0.0 telegraaf.nl
 0.0.0.0 telegraph.co.uk
 0.0.0.0 telegraphindia.com
+0.0.0.0 tellychakkar.com
+0.0.0.0 telugu360.com
 0.0.0.0 tennessean.com
 0.0.0.0 terezowens.com
 0.0.0.0 teslarati.com
 0.0.0.0 texastribune.org
 0.0.0.0 the-sun.com
 0.0.0.0 theamas.com
+0.0.0.0 theathletic.com
 0.0.0.0 theatlantic.com
 0.0.0.0 thebalancemoney.com
 0.0.0.0 thebetterindia.com
@@ -869,12 +900,14 @@
 0.0.0.0 thefader.com
 0.0.0.0 theguardian.com
 0.0.0.0 thehackernews.com
+0.0.0.0 thehansindia.com
 0.0.0.0 thehill.com
 0.0.0.0 thehindu.com
 0.0.0.0 thehollywoodgossip.com
 0.0.0.0 theintercept.com
 0.0.0.0 theinterns.net
 0.0.0.0 thejasminebrand.com
+0.0.0.0 thekashmirmonitor.net
 0.0.0.0 thelist.com
 0.0.0.0 thelocal.dk
 0.0.0.0 themarkup.org
@@ -898,6 +931,7 @@
 0.0.0.0 thesundaytimes.co.uk
 0.0.0.0 theswaddle.com
 0.0.0.0 thetech.com
+0.0.0.0 thetelugufilmnagar.com
 0.0.0.0 thethings.com
 0.0.0.0 thetimes.co.uk
 0.0.0.0 thetrendspotter.net
@@ -981,6 +1015,7 @@
 0.0.0.0 vimeo.com
 0.0.0.0 vine.co
 0.0.0.0 vipmagazine.ie
+0.0.0.0 viralbake.com
 0.0.0.0 visionofhumanity.org
 0.0.0.0 vk.com
 0.0.0.0 voanews.com
