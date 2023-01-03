@@ -30,6 +30,7 @@
 0.0.0.0 adultswim.com
 0.0.0.0 advocate.com
 0.0.0.0 aeon.co
+0.0.0.0 afp.com
 0.0.0.0 agriculture.com
 0.0.0.0 ahmedabadmirror.com
 0.0.0.0 aiobot.com
@@ -101,6 +102,7 @@
 0.0.0.0 bet.com
 0.0.0.0 bgr.com
 0.0.0.0 bgr.in
+0.0.0.0 bhaskar.com
 0.0.0.0 bhg.com
 0.0.0.0 bigbasket.com
 0.0.0.0 bigbazaar.com
@@ -154,6 +156,7 @@
 0.0.0.0 caretobeauty.com
 0.0.0.0 cars.com
 0.0.0.0 catalyst-journal.com
+0.0.0.0 catersnews.com
 0.0.0.0 caughtoffside.com
 0.0.0.0 cbr.com
 0.0.0.0 cbslocal.com
@@ -223,6 +226,7 @@
 0.0.0.0 dailymail.co.uk
 0.0.0.0 dailymotion.com
 0.0.0.0 dailypioneer.com
+0.0.0.0 dailystar.co.uk
 0.0.0.0 dailywire.com
 0.0.0.0 dallasnews.com
 0.0.0.0 dataconomy.com
@@ -262,6 +266,7 @@
 0.0.0.0 dotdashmeredith.com
 0.0.0.0 dotexe.com
 0.0.0.0 dove.com
+0.0.0.0 dowjones.com
 0.0.0.0 dreddsinfo.com
 0.0.0.0 drivespark.com
 0.0.0.0 dunzo.com
@@ -340,6 +345,7 @@
 0.0.0.0 forummalls.in
 0.0.0.0 forward.com
 0.0.0.0 fossbytes.com
+0.0.0.0 fosspost.org
 0.0.0.0 foxbusiness.com
 0.0.0.0 foxnews.com
 0.0.0.0 france24.com
@@ -354,6 +360,7 @@
 0.0.0.0 gadgets360.com
 0.0.0.0 gamedeveloper.com
 0.0.0.0 gamerant.com
+0.0.0.0 gawker.com
 0.0.0.0 gaytimes.co.uk
 0.0.0.0 genius.com
 0.0.0.0 getpocket.com
@@ -501,6 +508,7 @@
 0.0.0.0 latestly.com
 0.0.0.0 latimes.com
 0.0.0.0 lbb.in
+0.0.0.0 lbry.tv
 0.0.0.0 leadership.ng
 0.0.0.0 leagueoflegends.com
 0.0.0.0 lemillindia.com
@@ -562,6 +570,7 @@
 0.0.0.0 menshealth.com
 0.0.0.0 mensxp.com
 0.0.0.0 mentalfloss.com
+0.0.0.0 mercurynews.com
 0.0.0.0 messenger.com
 0.0.0.0 metacritic.com
 0.0.0.0 metalinjection.net
@@ -618,6 +627,7 @@
 0.0.0.0 newrelic.com
 0.0.0.0 newrepublic.com
 0.0.0.0 news.cn
+0.0.0.0 news.co.uk
 0.0.0.0 news.cornell.edu
 0.0.0.0 news.gallup.com
 0.0.0.0 news.mit.edu
@@ -628,6 +638,8 @@
 0.0.0.0 news9live.com
 0.0.0.0 newsbytesapp.com
 0.0.0.0 newscientist.com
+0.0.0.0 newscorp.com
+0.0.0.0 newscorpaustralia.com
 0.0.0.0 newsdrum.in
 0.0.0.0 newsgram.com
 0.0.0.0 newsguardtech.com
@@ -636,6 +648,7 @@
 0.0.0.0 newsmax.com
 0.0.0.0 newsroompost.com
 0.0.0.0 newsweek.com
+0.0.0.0 newswire.com
 0.0.0.0 newyorker.com
 0.0.0.0 nfl.com
 0.0.0.0 nicekicks.com
@@ -671,6 +684,7 @@
 0.0.0.0 oldest.org
 0.0.0.0 omgubuntu.co.uk
 0.0.0.0 oneindia.com
+0.0.0.0 onlysky.media
 0.0.0.0 onmanorama.com
 0.0.0.0 onmsft.com
 0.0.0.0 opensea.io
@@ -702,6 +716,7 @@
 0.0.0.0 perezhilton.com
 0.0.0.0 permutive.com
 0.0.0.0 petapixel.com
+0.0.0.0 petcoach.co
 0.0.0.0 pettable.com
 0.0.0.0 phoronix.com
 0.0.0.0 pinknews.co.uk
@@ -725,13 +740,17 @@
 0.0.0.0 pressgazette.co.uk
 0.0.0.0 pride.com
 0.0.0.0 primevideo.com
+0.0.0.0 prnewswire.com
 0.0.0.0 producthunt.com
 0.0.0.0 psyche.co
+0.0.0.0 psypost.org
 0.0.0.0 ptcpunjabi.co.in
+0.0.0.0 ptinews.com
 0.0.0.0 pubmatic.com
 0.0.0.0 purplle.com
 0.0.0.0 pushengage.com
 0.0.0.0 pvrcinemas.com
+0.0.0.0 qq.com
 0.0.0.0 quadrant.org.au
 0.0.0.0 quantamagazine.org
 0.0.0.0 quantserve.com
@@ -759,6 +778,7 @@
 0.0.0.0 rigorousthemes.com
 0.0.0.0 rnz.co.nz
 0.0.0.0 roblox.com
+0.0.0.0 rockstargames.com
 0.0.0.0 rogerebert.com
 0.0.0.0 rollingstone.com
 0.0.0.0 rottentomatoes.com
@@ -771,6 +791,7 @@
 0.0.0.0 salon.com
 0.0.0.0 sandiegouniontribune.com
 0.0.0.0 sandrarose.com
+0.0.0.0 sciencefocus.com
 0.0.0.0 scmp.com
 0.0.0.0 scoopwhoop.com
 0.0.0.0 scorecardresearch.com
@@ -866,6 +887,7 @@
 0.0.0.0 techdirt.com
 0.0.0.0 techdows.com
 0.0.0.0 techhive.com
+0.0.0.0 techinasia.com
 0.0.0.0 techradar.com
 0.0.0.0 techrights.org
 0.0.0.0 techspot.com
@@ -971,6 +993,7 @@
 0.0.0.0 travelandleisure.com
 0.0.0.0 traveldailynews.com
 0.0.0.0 treehugger.com
+0.0.0.0 tribuneindia.com
 0.0.0.0 tributetomagazine.com
 0.0.0.0 triller.co
 0.0.0.0 tripadvisor.com
@@ -1037,6 +1060,7 @@
 0.0.0.0 weforum.org
 0.0.0.0 weibo.com
 0.0.0.0 welltechnically.news
+0.0.0.0 welovedoodles.com
 0.0.0.0 wesmirch.com
 0.0.0.0 westernjournal.com
 0.0.0.0 westside.com
@@ -1067,6 +1091,7 @@
 0.0.0.0 yourstory.com
 0.0.0.0 yourstru.ly
 0.0.0.0 youtu.be
+0.0.0.0 youtube-nocookie.com
 0.0.0.0 youtube.com
 0.0.0.0 zdnet.com
 0.0.0.0 zee5.com
