@@ -212,6 +212,7 @@
 0.0.0.0 cointelegraph.com
 0.0.0.0 comcast.com
 0.0.0.0 comicbook.com
+0.0.0.0 complex.com
 0.0.0.0 computerhope.com
 0.0.0.0 contactmusic.com
 0.0.0.0 contv.com
@@ -308,6 +309,7 @@
 0.0.0.0 elle.com
 0.0.0.0 elle.com.au
 0.0.0.0 ellgeebe.com
+0.0.0.0 eminem.news
 0.0.0.0 emmys.com
 0.0.0.0 empireofthekop.com
 0.0.0.0 empireonline.com
@@ -457,7 +459,6 @@
 0.0.0.0 hotstar.com
 0.0.0.0 howtogeek.com
 0.0.0.0 hrw.org
-0.0.0.0 http://thenews.com/
 0.0.0.0 huddlesapp.co
 0.0.0.0 huffpost.com
 0.0.0.0 hul.co.in
@@ -493,6 +494,7 @@
 0.0.0.0 indiatoday.in
 0.0.0.0 indiatv.in
 0.0.0.0 indiatvnews.com
+0.0.0.0 indie88.com
 0.0.0.0 indigomusic.com
 0.0.0.0 indulgexpress.com
 0.0.0.0 indy100.com
@@ -540,6 +542,7 @@
 0.0.0.0 kfc.com
 0.0.0.0 khaskhabar.com
 0.0.0.0 khelnow.com
+0.0.0.0 kidsnews.com.au
 0.0.0.0 kissanime.com.ru
 0.0.0.0 kitco.com
 0.0.0.0 knowyourmeme.com
@@ -563,6 +566,7 @@
 0.0.0.0 leadership.ng
 0.0.0.0 leagueoflegends.com
 0.0.0.0 lebomag.com
+0.0.0.0 legit.ng
 0.0.0.0 lemillindia.com
 0.0.0.0 lemmy.ml
 0.0.0.0 letterboxd.com
@@ -685,6 +689,7 @@
 0.0.0.0 news-journal.com
 0.0.0.0 news.cn
 0.0.0.0 news.co.uk
+0.0.0.0 news.com.au
 0.0.0.0 news.cornell.edu
 0.0.0.0 news.gallup.com
 0.0.0.0 news.mit.edu
@@ -794,6 +799,7 @@
 0.0.0.0 politifact.com
 0.0.0.0 polygon.com
 0.0.0.0 polyvinylrecords.com
+0.0.0.0 popcrave.com
 0.0.0.0 popsugar.com
 0.0.0.0 postsen.com
 0.0.0.0 prabhatkhabar.com
@@ -998,6 +1004,7 @@
 0.0.0.0 theguardian.com
 0.0.0.0 thehackernews.com
 0.0.0.0 thehansindia.com
+0.0.0.0 thehealthyjournal.com
 0.0.0.0 thehill.com
 0.0.0.0 thehindu.com
 0.0.0.0 thehollywoodgossip.com
@@ -1012,6 +1019,7 @@
 0.0.0.0 themoviedb.org
 0.0.0.0 thenation.com
 0.0.0.0 thenerdstash.com
+0.0.0.0 thenews.com
 0.0.0.0 thenews.com.pk
 0.0.0.0 thenewsminute.com
 0.0.0.0 theonion.com
@@ -1030,6 +1038,7 @@
 0.0.0.0 thesun.co.uk
 0.0.0.0 thesundaytimes.co.uk
 0.0.0.0 theswaddle.com
+0.0.0.0 thetealmango.com
 0.0.0.0 thetech.com
 0.0.0.0 thetelugufilmnagar.com
 0.0.0.0 thethings.com
@@ -1143,6 +1152,7 @@
 0.0.0.0 webmd.com
 0.0.0.0 webminepool.com
 0.0.0.0 weforum.org
+0.0.0.0 wegotthiscovered.com
 0.0.0.0 weibo.com
 0.0.0.0 welltechnically.news
 0.0.0.0 welovedoodles.com
@@ -1182,6 +1192,7 @@
 0.0.0.0 you.co.uk
 0.0.0.0 yourstory.com
 0.0.0.0 yourstru.ly
+0.0.0.0 yourtango.com
 0.0.0.0 youtu.be
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 youtube.com
