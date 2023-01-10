@@ -56,6 +56,7 @@
 0.0.0.0 amp.dev
 0.0.0.0 analyticsindiamag.com
 0.0.0.0 analyticsinsight.net
+0.0.0.0 anandtech.com
 0.0.0.0 androidauthority.com
 0.0.0.0 androidpolice.com
 0.0.0.0 andscape.com
@@ -306,6 +307,7 @@
 0.0.0.0 economist.com
 0.0.0.0 edexlive.com
 0.0.0.0 educationtimes.com
+0.0.0.0 electrek.co
 0.0.0.0 elle.com
 0.0.0.0 elle.com.au
 0.0.0.0 ellgeebe.com
@@ -448,6 +450,7 @@
 0.0.0.0 hinditracklyrics.com
 0.0.0.0 hindustantimes.com
 0.0.0.0 hiphopcanada.com
+0.0.0.0 hiphopdx.com
 0.0.0.0 hm.com
 0.0.0.0 hmgroup.com
 0.0.0.0 hola.com
@@ -647,6 +650,7 @@
 0.0.0.0 mirror.co.uk
 0.0.0.0 missmalini.com
 0.0.0.0 mixcloud.com
+0.0.0.0 mmamania.com
 0.0.0.0 mojang.com
 0.0.0.0 money.com
 0.0.0.0 moneycontrol.com
@@ -679,6 +683,7 @@
 0.0.0.0 nbc12.com
 0.0.0.0 nbcnews.com
 0.0.0.0 ndtv.com
+0.0.0.0 nebula.tv
 0.0.0.0 neowin.net
 0.0.0.0 nestle.com
 0.0.0.0 nestleusa.com
@@ -742,6 +747,7 @@
 0.0.0.0 nyt.com
 0.0.0.0 nytimes.com
 0.0.0.0 nzherald.co.nz
+0.0.0.0 nztop40.co.nz
 0.0.0.0 oculus.com
 0.0.0.0 odysee.com
 0.0.0.0 ok.co.uk
@@ -844,6 +850,7 @@
 0.0.0.0 reviewed.com
 0.0.0.0 reviewgeek.com
 0.0.0.0 rfa.org
+0.0.0.0 riaa.com
 0.0.0.0 rigorousthemes.com
 0.0.0.0 rnz.co.nz
 0.0.0.0 roblox.com
@@ -927,6 +934,7 @@
 0.0.0.0 sportskeeda.com
 0.0.0.0 sportsmole.co.uk
 0.0.0.0 spotify.com
+0.0.0.0 sputnikmusic.com
 0.0.0.0 standard.co.uk
 0.0.0.0 staples.com
 0.0.0.0 starbiz.net
@@ -1177,11 +1185,11 @@
 0.0.0.0 wsj.net
 0.0.0.0 wtae.com
 0.0.0.0 wtol.com
-0.0.0.0 www.reddit.com
 0.0.0.0 www3.nhk.or.jp
 0.0.0.0 wynk.in
 0.0.0.0 xbox.com
 0.0.0.0 xda-developers.com
+0.0.0.0 xfl.com
 0.0.0.0 y101fm.com
 0.0.0.0 yahoo.com
 0.0.0.0 yelp.com
