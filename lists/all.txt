@@ -40,11 +40,13 @@
 0.0.0.0 ajio.com
 0.0.0.0 al.com
 0.0.0.0 alaraby.co.uk
+0.0.0.0 alexcityoutlook.com
 0.0.0.0 alibaba.com
 0.0.0.0 aljazeera.com
 0.0.0.0 aljazeera.net
 0.0.0.0 allaboutthetea.com
 0.0.0.0 allabouttrh.com
+0.0.0.0 allhiphop.com
 0.0.0.0 allkpop.com
 0.0.0.0 allpeoplequilt.com
 0.0.0.0 allrecipes.com
@@ -52,8 +54,10 @@
 0.0.0.0 amazon.com
 0.0.0.0 amazon.in
 0.0.0.0 ambcrypto.com
+0.0.0.0 americamagazine.org
 0.0.0.0 americansongwriter.com
 0.0.0.0 amp.dev
+0.0.0.0 amsterdamnews.com
 0.0.0.0 analyticsindiamag.com
 0.0.0.0 analyticsinsight.net
 0.0.0.0 anandtech.com
@@ -102,6 +106,7 @@
 0.0.0.0 beatport.com
 0.0.0.0 beatsbydre.com
 0.0.0.0 beebom.com
+0.0.0.0 behance.net
 0.0.0.0 beincrypto.com
 0.0.0.0 bere.al
 0.0.0.0 bestbullysticks.com
@@ -152,8 +157,10 @@
 0.0.0.0 business-standard.com
 0.0.0.0 business2community.com
 0.0.0.0 businessinsider.in
+0.0.0.0 businesstoday.in
 0.0.0.0 businesswire.com
 0.0.0.0 businessworld.in
+0.0.0.0 bustle.com
 0.0.0.0 buzzfeed.com
 0.0.0.0 buzzfeednews.com
 0.0.0.0 byrdie.com
@@ -243,6 +250,7 @@
 0.0.0.0 dailydot.com
 0.0.0.0 dailymail.co.uk
 0.0.0.0 dailymotion.com
+0.0.0.0 dailyo.in
 0.0.0.0 dailypioneer.com
 0.0.0.0 dailyrecord.co.uk
 0.0.0.0 dailystar.co.uk
@@ -291,7 +299,9 @@
 0.0.0.0 dowjones.com
 0.0.0.0 dreddsinfo.com
 0.0.0.0 dreshare.com
+0.0.0.0 dribbble.com
 0.0.0.0 drivespark.com
+0.0.0.0 dukechronicle.com
 0.0.0.0 dunzo.com
 0.0.0.0 dustyorgan.com
 0.0.0.0 dutchnews.nl
@@ -311,6 +321,7 @@
 0.0.0.0 elle.com
 0.0.0.0 elle.com.au
 0.0.0.0 ellgeebe.com
+0.0.0.0 elpais.com
 0.0.0.0 eminem.news
 0.0.0.0 emmys.com
 0.0.0.0 empireofthekop.com
@@ -348,6 +359,7 @@
 0.0.0.0 famousfix.com
 0.0.0.0 fandom.com
 0.0.0.0 farfetch.com
+0.0.0.0 faroutmagazine.co.uk
 0.0.0.0 fashion-mommy.com
 0.0.0.0 fashionbeans.com
 0.0.0.0 fashionunited.in
@@ -366,6 +378,7 @@
 0.0.0.0 filmspeak.org
 0.0.0.0 financialexpress.com
 0.0.0.0 financialpost.com
+0.0.0.0 firstcuriosity.com
 0.0.0.0 firstpost.com
 0.0.0.0 flipkart.com
 0.0.0.0 floatplane.com
@@ -397,6 +410,7 @@
 0.0.0.0 gamerant.com
 0.0.0.0 gawker.com
 0.0.0.0 gaytimes.co.uk
+0.0.0.0 gazettengr.com
 0.0.0.0 genius.com
 0.0.0.0 geo.tv
 0.0.0.0 getpocket.com
@@ -425,6 +439,7 @@
 0.0.0.0 gq.com
 0.0.0.0 gqindia.com
 0.0.0.0 grammy.com
+0.0.0.0 graziamagazine.com
 0.0.0.0 greaterkashmir.com
 0.0.0.0 greatpetcare.com
 0.0.0.0 grid.news
@@ -522,6 +537,7 @@
 0.0.0.0 irishnews.com
 0.0.0.0 irishtimes.com
 0.0.0.0 itsfoss.com
+0.0.0.0 iwmbuzz.com
 0.0.0.0 j-14.com
 0.0.0.0 jacobin.com
 0.0.0.0 jagran.com
@@ -541,10 +557,12 @@
 0.0.0.0 justjared.com
 0.0.0.0 kayak.co.in
 0.0.0.0 kayak.com
+0.0.0.0 kemifilani.ng
 0.0.0.0 keralakaumudi.com
 0.0.0.0 kfc.com
 0.0.0.0 khaskhabar.com
 0.0.0.0 khelnow.com
+0.0.0.0 kidadl.com
 0.0.0.0 kidsnews.com.au
 0.0.0.0 kissanime.com.ru
 0.0.0.0 kitco.com
@@ -565,11 +583,13 @@
 0.0.0.0 latestly.com
 0.0.0.0 latimes.com
 0.0.0.0 lbb.in
+0.0.0.0 lbc.co.uk
 0.0.0.0 lbry.tv
 0.0.0.0 leadership.ng
 0.0.0.0 leagueoflegends.com
 0.0.0.0 lebomag.com
 0.0.0.0 legit.ng
+0.0.0.0 lehren.com
 0.0.0.0 lemillindia.com
 0.0.0.0 lemmy.ml
 0.0.0.0 letterboxd.com
@@ -651,6 +671,7 @@
 0.0.0.0 missmalini.com
 0.0.0.0 mixcloud.com
 0.0.0.0 mmamania.com
+0.0.0.0 mmnews.tv
 0.0.0.0 mojang.com
 0.0.0.0 money.com
 0.0.0.0 moneycontrol.com
@@ -667,6 +688,7 @@
 0.0.0.0 msn.com
 0.0.0.0 msnbc.com
 0.0.0.0 mtv.com
+0.0.0.0 music-news.com
 0.0.0.0 music.amazon.com
 0.0.0.0 music.apple.com
 0.0.0.0 mydelsu.com
@@ -805,6 +827,7 @@
 0.0.0.0 politifact.com
 0.0.0.0 polygon.com
 0.0.0.0 polyvinylrecords.com
+0.0.0.0 popbuzz.com
 0.0.0.0 popcrave.com
 0.0.0.0 popsugar.com
 0.0.0.0 postsen.com
@@ -817,6 +840,7 @@
 0.0.0.0 prnewswire.com
 0.0.0.0 producthunt.com
 0.0.0.0 psyche.co
+0.0.0.0 psychologytoday.com
 0.0.0.0 psypost.org
 0.0.0.0 ptcpunjabi.co.in
 0.0.0.0 ptinews.com
@@ -974,6 +998,7 @@
 0.0.0.0 techdows.com
 0.0.0.0 techhive.com
 0.0.0.0 techinasia.com
+0.0.0.0 techpowerup.com
 0.0.0.0 techradar.com
 0.0.0.0 techrights.org
 0.0.0.0 techspot.com
@@ -1009,6 +1034,7 @@
 0.0.0.0 thefactsite.com
 0.0.0.0 thefader.com
 0.0.0.0 thefamouspeople.com
+0.0.0.0 thegossipscoop.com
 0.0.0.0 theguardian.com
 0.0.0.0 thehackernews.com
 0.0.0.0 thehansindia.com
@@ -1031,19 +1057,24 @@
 0.0.0.0 thenews.com.pk
 0.0.0.0 thenewsminute.com
 0.0.0.0 theonion.com
+0.0.0.0 theperspective.com
 0.0.0.0 theprint.in
 0.0.0.0 thequint.com
 0.0.0.0 theregister.com
 0.0.0.0 thescottishsun.co.uk
 0.0.0.0 theshaderoom.com
+0.0.0.0 thesheridanpress.com
 0.0.0.0 thesouledstore.com
+0.0.0.0 thesportster.com
 0.0.0.0 thespruce.com
 0.0.0.0 thespruceeats.com
 0.0.0.0 thespun.com
 0.0.0.0 thestar.com
 0.0.0.0 thestatesman.com
+0.0.0.0 thestatszone.com
 0.0.0.0 thestreamable.com
 0.0.0.0 thesun.co.uk
+0.0.0.0 thesun.ie
 0.0.0.0 thesundaytimes.co.uk
 0.0.0.0 theswaddle.com
 0.0.0.0 thetealmango.com
@@ -1090,7 +1121,9 @@
 0.0.0.0 travelandleisure.com
 0.0.0.0 traveldailynews.com
 0.0.0.0 treehugger.com
+0.0.0.0 tribune.com.pk
 0.0.0.0 tribuneindia.com
+0.0.0.0 tribunemedia.com
 0.0.0.0 tributetomagazine.com
 0.0.0.0 triller.co
 0.0.0.0 tripadvisor.com
@@ -1126,6 +1159,8 @@
 0.0.0.0 variety.com
 0.0.0.0 vegasshows.us
 0.0.0.0 venturebeat.com
+0.0.0.0 vero-music.com
+0.0.0.0 vero.co
 0.0.0.0 verywellfamily.com
 0.0.0.0 verywellfit.com
 0.0.0.0 verywellhealth.com
@@ -1159,6 +1194,7 @@
 0.0.0.0 wearepoweruk.com
 0.0.0.0 webmd.com
 0.0.0.0 webminepool.com
+0.0.0.0 webnewsobserver.com
 0.0.0.0 weforum.org
 0.0.0.0 wegotthiscovered.com
 0.0.0.0 weibo.com
@@ -1190,6 +1226,7 @@
 0.0.0.0 xbox.com
 0.0.0.0 xda-developers.com
 0.0.0.0 xfl.com
+0.0.0.0 xxlmag.com
 0.0.0.0 y101fm.com
 0.0.0.0 yahoo.com
 0.0.0.0 yelp.com
@@ -1209,4 +1246,3 @@
 0.0.0.0 zigwheels.com
 0.0.0.0 zomato.com
 0.0.0.0 zoomtventertainment.com
-
