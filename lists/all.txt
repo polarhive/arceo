@@ -42,6 +42,7 @@
 0.0.0.0 alaraby.co.uk
 0.0.0.0 alexcityoutlook.com
 0.0.0.0 alibaba.com
+0.0.0.0 aliexpress.com
 0.0.0.0 aljazeera.com
 0.0.0.0 aljazeera.net
 0.0.0.0 allaboutthetea.com
@@ -109,6 +110,7 @@
 0.0.0.0 behance.net
 0.0.0.0 beincrypto.com
 0.0.0.0 bere.al
+0.0.0.0 bershka.com
 0.0.0.0 bestbullysticks.com
 0.0.0.0 bet.com
 0.0.0.0 bgr.com
@@ -157,6 +159,7 @@
 0.0.0.0 business-standard.com
 0.0.0.0 business2community.com
 0.0.0.0 businessinsider.in
+0.0.0.0 businessoffashion.com
 0.0.0.0 businesstoday.in
 0.0.0.0 businesswire.com
 0.0.0.0 businessworld.in
@@ -190,6 +193,7 @@
 0.0.0.0 centrepointstores.com
 0.0.0.0 cgtn.com
 0.0.0.0 chano8.com
+0.0.0.0 chartoo.in
 0.0.0.0 cheatsheet.com
 0.0.0.0 chicagoreader.com
 0.0.0.0 chicagotribune.com
@@ -224,6 +228,7 @@
 0.0.0.0 computerhope.com
 0.0.0.0 contactmusic.com
 0.0.0.0 contv.com
+0.0.0.0 coolhunting.com
 0.0.0.0 corbettreport.com
 0.0.0.0 cosmopolitan.com
 0.0.0.0 cosmopolitanme.com
@@ -244,6 +249,7 @@
 0.0.0.0 ctvnews.ca
 0.0.0.0 cult.fit
 0.0.0.0 curiositystream.com
+0.0.0.0 cyworld.com
 0.0.0.0 daijiworld.com
 0.0.0.0 dailycal.org
 0.0.0.0 dailycaller.com
@@ -429,6 +435,7 @@
 0.0.0.0 goal.com
 0.0.0.0 gofugyourself.com
 0.0.0.0 gogoanime.ar
+0.0.0.0 goo.ne.jp
 0.0.0.0 goodmorningamerica.com
 0.0.0.0 goodnewsnetwork.org
 0.0.0.0 goodto.com
@@ -461,6 +468,7 @@
 0.0.0.0 hellomagazine.com
 0.0.0.0 heraldsun.com.au
 0.0.0.0 heremedia.com
+0.0.0.0 hi5.com
 0.0.0.0 hiddenremote.com
 0.0.0.0 hinditracklyrics.com
 0.0.0.0 hindustantimes.com
@@ -555,6 +563,7 @@
 0.0.0.0 jpost.com
 0.0.0.0 justdial.com
 0.0.0.0 justjared.com
+0.0.0.0 kakao.com
 0.0.0.0 kayak.co.in
 0.0.0.0 kayak.com
 0.0.0.0 kemifilani.ng
@@ -650,6 +659,7 @@
 0.0.0.0 mediatakeout.com
 0.0.0.0 medium.com
 0.0.0.0 melmagazine.com
+0.0.0.0 meneame.net
 0.0.0.0 menshealth.com
 0.0.0.0 mensxp.com
 0.0.0.0 mentalfloss.com
@@ -700,6 +710,7 @@
 0.0.0.0 nationalpost.com
 0.0.0.0 nationalreview.com
 0.0.0.0 nature.com
+0.0.0.0 naver.com
 0.0.0.0 nba.com
 0.0.0.0 nbc.com
 0.0.0.0 nbc12.com
@@ -773,6 +784,7 @@
 0.0.0.0 oculus.com
 0.0.0.0 odysee.com
 0.0.0.0 ok.co.uk
+0.0.0.0 ok.ru
 0.0.0.0 okayplayer.com
 0.0.0.0 okmagazine.com
 0.0.0.0 oldest.org
@@ -845,6 +857,7 @@
 0.0.0.0 ptcpunjabi.co.in
 0.0.0.0 ptinews.com
 0.0.0.0 pubmatic.com
+0.0.0.0 pullandbear.com
 0.0.0.0 purepeople.com
 0.0.0.0 purplle.com
 0.0.0.0 pushengage.com
@@ -855,8 +868,10 @@
 0.0.0.0 quantserve.com
 0.0.0.0 quora.com
 0.0.0.0 qz.com
+0.0.0.0 ra.co
 0.0.0.0 radaronline.com
 0.0.0.0 radiocity.in
+0.0.0.0 railway-technology.com
 0.0.0.0 rap-up.com
 0.0.0.0 rateyourmusic.com
 0.0.0.0 rd.com
@@ -869,6 +884,7 @@
 0.0.0.0 rediff.com
 0.0.0.0 refinery29.com
 0.0.0.0 republicworld.com
+0.0.0.0 restofworld.org
 0.0.0.0 rethink.org
 0.0.0.0 reuters.com
 0.0.0.0 reviewed.com
@@ -911,6 +927,8 @@
 0.0.0.0 sfgate.com
 0.0.0.0 shape.com
 0.0.0.0 sheeshmedia.com
+0.0.0.0 shein.com
+0.0.0.0 shein.in
 0.0.0.0 shemazing.net
 0.0.0.0 shethepeople.tv
 0.0.0.0 shoppre.com
@@ -924,6 +942,7 @@
 0.0.0.0 sinceindependence.com
 0.0.0.0 sixthtone.com
 0.0.0.0 skinn.in
+0.0.0.0 skyrock.com
 0.0.0.0 skysports.com
 0.0.0.0 slantmagazine.com
 0.0.0.0 slashdot.org
@@ -971,6 +990,7 @@
 0.0.0.0 steampowered.com
 0.0.0.0 stocktwits.com
 0.0.0.0 storyofsong.com
+0.0.0.0 stradivarius.com
 0.0.0.0 straitstimes.com
 0.0.0.0 studycafe.in
 0.0.0.0 stuff.co.nz
@@ -1006,6 +1026,7 @@
 0.0.0.0 techviral.net
 0.0.0.0 ted.com
 0.0.0.0 teenvogue.com
+0.0.0.0 teethmag.net
 0.0.0.0 telanganatoday.com
 0.0.0.0 telegraaf.nl
 0.0.0.0 telegraph.co.uk
@@ -1025,6 +1046,7 @@
 0.0.0.0 thechildrensbookreview.com
 0.0.0.0 thecoast.net.nz
 0.0.0.0 theconversation.com
+0.0.0.0 thecooldown.com
 0.0.0.0 thecut.com
 0.0.0.0 thedailybeast.com
 0.0.0.0 thedermreview.com
@@ -1161,6 +1183,7 @@
 0.0.0.0 venturebeat.com
 0.0.0.0 vero-music.com
 0.0.0.0 vero.co
+0.0.0.0 versace.com
 0.0.0.0 verywellfamily.com
 0.0.0.0 verywellfit.com
 0.0.0.0 verywellhealth.com
@@ -1175,6 +1198,7 @@
 0.0.0.0 viralbake.com
 0.0.0.0 visionofhumanity.org
 0.0.0.0 vk.com
+0.0.0.0 vkontakte.ru
 0.0.0.0 voanews.com
 0.0.0.0 vogue.com
 0.0.0.0 vogue.com.au
@@ -1241,6 +1265,7 @@
 0.0.0.0 youtu.be
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 youtube.com
+0.0.0.0 zara.com
 0.0.0.0 zdnet.com
 0.0.0.0 zee5.com
 0.0.0.0 zigwheels.com
