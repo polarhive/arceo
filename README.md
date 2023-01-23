@@ -20,9 +20,9 @@ Note: for some reason the add to uBlock-Origin button only works when you view t
 
 ## Why did you make this?
 
-Nowadays, I get all my social media updates using RSS feeds: using [newsboat](https://polarhive.ml/dots). I block Facebook, Reddit, Twitter, YouTube & other mainstream social media in this blocklist. 
+Nowadays, I get all my social media updates using RSS feeds: using [newsboat](https://polarhive.ml/dots). I block Facebook, Reddit, Twitter, YouTube & other mainstream social media in this blocklist.
 
-I can browse and search articles locally, in pure plain-text. Paired with newsboat macros, I can archive videos with yt-dl, maintain a weekend binge list or save it for-later. I don't like recommendation engines when I'm browsing. I want things to be static & not disturb my [workflow](https://polarhive.ml/blog/rss-feeds/). I've blocked news sites, OTT / streaming sites, e-commerce and sites that have anti-user behaviour — à la tracking, recommendation engines that keep you hooked. Feel free to fork this project & tune it to your needs. 
+I can browse and search articles locally, in pure plain-text. Paired with newsboat macros, I can archive videos with yt-dl, maintain a weekend binge list or save articles for-later. I don't like recommendation engines when I'm browsing. I want things to be static & not disturb my [workflow](https://polarhive.ml/blog/rss-feeds/). I've blocked news sites, OTT / streaming sites, e-commerce and sites that have anti-user behaviour — à la tracking, recommendation engines that keep you hooked. Feel free to fork this project & tune it to your needs.
 
 ## Want to add a site? 
 
