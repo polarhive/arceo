@@ -194,6 +194,7 @@
 0.0.0.0 cgtn.com
 0.0.0.0 chano8.com
 0.0.0.0 chartoo.in
+0.0.0.0 chdr.tv
 0.0.0.0 cheatsheet.com
 0.0.0.0 chicagoreader.com
 0.0.0.0 chicagotribune.com
@@ -240,6 +241,7 @@
 0.0.0.0 cricket.com.au
 0.0.0.0 cricketaddictor.com
 0.0.0.0 crictracker.com
+0.0.0.0 croma.com
 0.0.0.0 crossroadstoday.com
 0.0.0.0 crunchbase.com
 0.0.0.0 crunchyroll.com
@@ -343,12 +345,14 @@
 0.0.0.0 espn.in
 0.0.0.0 espncricinfo.com
 0.0.0.0 esquire.com
+0.0.0.0 essence.com
 0.0.0.0 etcanada.com
 0.0.0.0 etonline.com
 0.0.0.0 ettoday.net
 0.0.0.0 euroleaguebasketball.net
 0.0.0.0 euronews.com
 0.0.0.0 eurosport.com
+0.0.0.0 every.to
 0.0.0.0 evilbeetgossip.com
 0.0.0.0 evoke.ie
 0.0.0.0 ew.com
@@ -382,6 +386,7 @@
 0.0.0.0 filmipop.com
 0.0.0.0 filmistory.com
 0.0.0.0 filmspeak.org
+0.0.0.0 financefeeds.com
 0.0.0.0 financialexpress.com
 0.0.0.0 financialpost.com
 0.0.0.0 firstcuriosity.com
@@ -576,6 +581,7 @@
 0.0.0.0 kissanime.com.ru
 0.0.0.0 kitco.com
 0.0.0.0 knowyourmeme.com
+0.0.0.0 koco.com
 0.0.0.0 koimoi.com
 0.0.0.0 koreaboo.com
 0.0.0.0 kotaku.com
@@ -586,6 +592,7 @@
 0.0.0.0 krunker.io
 0.0.0.0 kwalitywalls.in
 0.0.0.0 laineygossip.com
+0.0.0.0 lakecountrycalendar.com
 0.0.0.0 landsend.com
 0.0.0.0 laptopmag.com
 0.0.0.0 last.fm
@@ -602,6 +609,7 @@
 0.0.0.0 lemillindia.com
 0.0.0.0 lemmy.ml
 0.0.0.0 letterboxd.com
+0.0.0.0 lex18.com
 0.0.0.0 lifeandstylemag.com
 0.0.0.0 lifehacker.com
 0.0.0.0 lifestylestores.com
@@ -694,6 +702,7 @@
 0.0.0.0 motorauthority.com
 0.0.0.0 motortrend.com
 0.0.0.0 mouthshut.com
+0.0.0.0 movieweb.com
 0.0.0.0 mozilla.org
 0.0.0.0 msn.com
 0.0.0.0 msnbc.com
@@ -737,6 +746,7 @@
 0.0.0.0 news18.com
 0.0.0.0 news9live.com
 0.0.0.0 newsbytesapp.com
+0.0.0.0 newschannel5.com
 0.0.0.0 newscientist.com
 0.0.0.0 newscorp.com
 0.0.0.0 newscorpaustralia.com
@@ -806,6 +816,7 @@
 0.0.0.0 parade.com
 0.0.0.0 paramount.com
 0.0.0.0 parents.com
+0.0.0.0 patch.com
 0.0.0.0 paytmmall.com
 0.0.0.0 pbs.org
 0.0.0.0 pbskids.org
@@ -831,6 +842,7 @@
 0.0.0.0 pitchfork.com
 0.0.0.0 pixar.com
 0.0.0.0 pizzahut.co.in
+0.0.0.0 pkbnews.in
 0.0.0.0 play.date
 0.0.0.0 playstation.com
 0.0.0.0 pluggedin.com
@@ -842,6 +854,7 @@
 0.0.0.0 popbuzz.com
 0.0.0.0 popcrave.com
 0.0.0.0 popsugar.com
+0.0.0.0 post-gazette.com
 0.0.0.0 postsen.com
 0.0.0.0 prabhatkhabar.com
 0.0.0.0 premierleague.com
@@ -883,6 +896,8 @@
 0.0.0.0 reddit.com
 0.0.0.0 rediff.com
 0.0.0.0 refinery29.com
+0.0.0.0 registerguard.com
+0.0.0.0 republicmonews.com
 0.0.0.0 republicworld.com
 0.0.0.0 restofworld.org
 0.0.0.0 rethink.org
@@ -949,6 +964,7 @@
 0.0.0.0 slashgear.com
 0.0.0.0 slate.com
 0.0.0.0 sling.com
+0.0.0.0 sltrib.com
 0.0.0.0 smh.com.au
 0.0.0.0 smoothradio.com
 0.0.0.0 snapchat.com
@@ -969,6 +985,7 @@
 0.0.0.0 southnews.com.tw
 0.0.0.0 southparkstudios.com
 0.0.0.0 space.com
+0.0.0.0 spectrumnews1.com
 0.0.0.0 spicyonion.com
 0.0.0.0 spieltimes.com
 0.0.0.0 spockandchristine.com
@@ -1079,6 +1096,7 @@
 0.0.0.0 thenews.com.pk
 0.0.0.0 thenewsminute.com
 0.0.0.0 theonion.com
+0.0.0.0 theperrynews.com
 0.0.0.0 theperspective.com
 0.0.0.0 theprint.in
 0.0.0.0 thequint.com
@@ -1113,6 +1131,7 @@
 0.0.0.0 thisisanfield.com
 0.0.0.0 thisweek.gnome.org
 0.0.0.0 tidal.com
+0.0.0.0 tidbits.com
 0.0.0.0 tiendeo.in
 0.0.0.0 tiktok.com
 0.0.0.0 tiktokcdn.com
@@ -1164,6 +1183,7 @@
 0.0.0.0 ulta.com
 0.0.0.0 un.org
 0.0.0.0 uncrazed.com
+0.0.0.0 unicornstore.in
 0.0.0.0 unilever.com
 0.0.0.0 universalpictures.com
 0.0.0.0 universalstudios.com
@@ -1243,6 +1263,7 @@
 0.0.0.0 worldbank.org
 0.0.0.0 wsj.com
 0.0.0.0 wsj.net
+0.0.0.0 wsmv.com
 0.0.0.0 wtae.com
 0.0.0.0 wtol.com
 0.0.0.0 www3.nhk.or.jp
