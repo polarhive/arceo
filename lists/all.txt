@@ -26,6 +26,7 @@
 0.0.0.0 accessonline.com
 0.0.0.0 activisionblizzard.com
 0.0.0.0 adage.com
+0.0.0.0 adgully.com
 0.0.0.0 adidas.co.in
 0.0.0.0 adidas.com
 0.0.0.0 adn.com
@@ -38,6 +39,7 @@
 0.0.0.0 aiobot.com
 0.0.0.0 ajc.com
 0.0.0.0 ajio.com
+0.0.0.0 ajournalofmusicalthings.com
 0.0.0.0 al.com
 0.0.0.0 alaraby.co.uk
 0.0.0.0 alexcityoutlook.com
@@ -86,6 +88,7 @@
 0.0.0.0 atwoodmagazine.com
 0.0.0.0 atxgossip.com
 0.0.0.0 audacy.com
+0.0.0.0 audius.co
 0.0.0.0 auralcrave.com
 0.0.0.0 autocarindia.com
 0.0.0.0 autonews.com
@@ -119,6 +122,7 @@
 0.0.0.0 bere.al
 0.0.0.0 bershka.com
 0.0.0.0 bestbullysticks.com
+0.0.0.0 bestmediainfo.com
 0.0.0.0 bet.com
 0.0.0.0 bgr.com
 0.0.0.0 bgr.in
@@ -133,6 +137,7 @@
 0.0.0.0 bing.com
 0.0.0.0 binged.com
 0.0.0.0 biographymask.com
+0.0.0.0 biographyvilla.com
 0.0.0.0 birminghammail.co.uk
 0.0.0.0 bitchute.com
 0.0.0.0 bitrates.com
@@ -149,6 +154,7 @@
 0.0.0.0 bloomberg.com
 0.0.0.0 bloomberglaw.com
 0.0.0.0 bloombergquint.com
+0.0.0.0 boardgamequest.com
 0.0.0.0 bodyandsoul.com.au
 0.0.0.0 boilerroom.tv
 0.0.0.0 boingboing.net
@@ -308,6 +314,7 @@
 0.0.0.0 distractify.com
 0.0.0.0 dlnews.com
 0.0.0.0 dnaindia.com
+0.0.0.0 dnyuz.com
 0.0.0.0 dogsfirst.ie
 0.0.0.0 dogsnaturallymagazine.com
 0.0.0.0 dominos.co.in
@@ -442,6 +449,7 @@
 0.0.0.0 geo.tv
 0.0.0.0 getpocket.com
 0.0.0.0 getpublica.com
+0.0.0.0 gfuel.com
 0.0.0.0 ghacks.net
 0.0.0.0 github.blog
 0.0.0.0 gizmodo.com
@@ -572,6 +580,8 @@
 0.0.0.0 irishmirror.ie
 0.0.0.0 irishnews.com
 0.0.0.0 irishtimes.com
+0.0.0.0 irth.in
+0.0.0.0 irthapp.com
 0.0.0.0 itsfoss.com
 0.0.0.0 iwmbuzz.com
 0.0.0.0 j-14.com
@@ -695,6 +705,7 @@
 0.0.0.0 mathrubhumi.com
 0.0.0.0 mcdonalds.com
 0.0.0.0 medelita.com
+0.0.0.0 mediabrief.com
 0.0.0.0 mediatakeout.com
 0.0.0.0 medium.com
 0.0.0.0 melmagazine.com
@@ -849,6 +860,7 @@
 0.0.0.0 outlookindia.com
 0.0.0.0 pagesix.com
 0.0.0.0 pandora.com
+0.0.0.0 papermag.com
 0.0.0.0 parade.com
 0.0.0.0 paramount.com
 0.0.0.0 parents.com
@@ -1128,6 +1140,7 @@
 0.0.0.0 thefactsite.com
 0.0.0.0 thefader.com
 0.0.0.0 thefamouspeople.com
+0.0.0.0 thegamer.com
 0.0.0.0 theglobeandmail.com
 0.0.0.0 thegossipscoop.com
 0.0.0.0 theguardian.com
@@ -1231,6 +1244,7 @@
 0.0.0.0 tripsavvy.com
 0.0.0.0 trtworld.com
 0.0.0.0 truebluepets.com
+0.0.0.0 tsuki.market
 0.0.0.0 tubefilter.com
 0.0.0.0 tumblr.com
 0.0.0.0 tvline.com
