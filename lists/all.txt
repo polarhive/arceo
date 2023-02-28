@@ -54,6 +54,7 @@
 0.0.0.0 allmusic.com
 0.0.0.0 allpeoplequilt.com
 0.0.0.0 allrecipes.com
+0.0.0.0 alltop.com
 0.0.0.0 amarujala.com
 0.0.0.0 amazon.com
 0.0.0.0 amazon.in
@@ -65,9 +66,11 @@
 0.0.0.0 analyticsindiamag.com
 0.0.0.0 analyticsinsight.net
 0.0.0.0 anandtech.com
+0.0.0.0 anchor.fm
 0.0.0.0 androidauthority.com
 0.0.0.0 androidpolice.com
 0.0.0.0 andscape.com
+0.0.0.0 anghami.com
 0.0.0.0 animedao.to
 0.0.0.0 animenewsnetwork.com
 0.0.0.0 aninews.in
@@ -207,6 +210,7 @@
 0.0.0.0 celebrityinsider.org
 0.0.0.0 celebritykind.com
 0.0.0.0 celebritytell.com
+0.0.0.0 celebwell.com
 0.0.0.0 centrepointstores.com
 0.0.0.0 cgtn.com
 0.0.0.0 chano8.com
@@ -251,6 +255,7 @@
 0.0.0.0 cosmopolitan.com
 0.0.0.0 cosmopolitanme.com
 0.0.0.0 cosstores.com
+0.0.0.0 countryliving.com
 0.0.0.0 cracked.com
 0.0.0.0 crackmagazine.net
 0.0.0.0 creambell.com
@@ -335,6 +340,7 @@
 0.0.0.0 dw.com
 0.0.0.0 dwnews.com
 0.0.0.0 ea.com
+0.0.0.0 earlygame.com
 0.0.0.0 eastmojo.com
 0.0.0.0 eatfit.in
 0.0.0.0 eatingwell.com
@@ -355,6 +361,7 @@
 0.0.0.0 empireonline.com
 0.0.0.0 engadget.com
 0.0.0.0 entertainmentdaily.co.uk
+0.0.0.0 entertainmentearth.com
 0.0.0.0 entertainmentwise.com
 0.0.0.0 entrepreneur.com
 0.0.0.0 eonline.com
@@ -521,6 +528,7 @@
 0.0.0.0 hul.co.in
 0.0.0.0 hulu.com
 0.0.0.0 hushhushbiz.com
+0.0.0.0 hypebeast.com
 0.0.0.0 hypem.com
 0.0.0.0 ians.in
 0.0.0.0 ibighit.com
@@ -577,6 +585,7 @@
 0.0.0.0 inverse.com
 0.0.0.0 investmentwatchblog.com
 0.0.0.0 investopedia.com
+0.0.0.0 iol.co.za
 0.0.0.0 irishmirror.ie
 0.0.0.0 irishnews.com
 0.0.0.0 irishtimes.com
@@ -677,6 +686,7 @@
 0.0.0.0 looper.com
 0.0.0.0 loreal.com
 0.0.0.0 louvre.fr
+0.0.0.0 lovebscott.com
 0.0.0.0 ltn.com.tw
 0.0.0.0 lucasfilm.com
 0.0.0.0 lulu.com
@@ -800,6 +810,7 @@
 0.0.0.0 newslaundry.com
 0.0.0.0 newslivetv.com
 0.0.0.0 newsmax.com
+0.0.0.0 newsnow.com
 0.0.0.0 newsroompost.com
 0.0.0.0 newsweek.com
 0.0.0.0 newswire.com
@@ -844,6 +855,7 @@
 0.0.0.0 okayplayer.com
 0.0.0.0 okmagazine.com
 0.0.0.0 oldest.org
+0.0.0.0 omg-news.com
 0.0.0.0 omgubuntu.co.uk
 0.0.0.0 oneindia.com
 0.0.0.0 onlysky.media
@@ -1175,6 +1187,7 @@
 0.0.0.0 theshaderoom.com
 0.0.0.0 thesheridanpress.com
 0.0.0.0 thesouledstore.com
+0.0.0.0 thesouthafrican.com
 0.0.0.0 thesportster.com
 0.0.0.0 thespruce.com
 0.0.0.0 thespruceeats.com
@@ -1224,6 +1237,7 @@
 0.0.0.0 tomshardware.com
 0.0.0.0 tonyawards.com
 0.0.0.0 toofab.com
+0.0.0.0 top10.com
 0.0.0.0 topnewreview.com
 0.0.0.0 torontosun.com
 0.0.0.0 torrentfreak.com
@@ -1246,6 +1260,7 @@
 0.0.0.0 truebluepets.com
 0.0.0.0 tsuki.market
 0.0.0.0 tubefilter.com
+0.0.0.0 tubitv.com
 0.0.0.0 tumblr.com
 0.0.0.0 tvline.com
 0.0.0.0 twitch.tv
