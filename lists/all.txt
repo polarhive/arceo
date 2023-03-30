@@ -333,6 +333,7 @@
 0.0.0.0 dreshare.com
 0.0.0.0 dribbble.com
 0.0.0.0 drivespark.com
+0.0.0.0 dsw.com
 0.0.0.0 dukechronicle.com
 0.0.0.0 dunzo.com
 0.0.0.0 dustyorgan.com
@@ -374,6 +375,7 @@
 0.0.0.0 essence.com
 0.0.0.0 etcanada.com
 0.0.0.0 etonline.com
+0.0.0.0 etsy.com
 0.0.0.0 ettoday.net
 0.0.0.0 euroleaguebasketball.net
 0.0.0.0 euronews.com
@@ -610,6 +612,7 @@
 0.0.0.0 joe.co.uk
 0.0.0.0 jpc.de
 0.0.0.0 jpost.com
+0.0.0.0 jujufootwear.com
 0.0.0.0 justdial.com
 0.0.0.0 justjared.com
 0.0.0.0 kakao.com
@@ -655,6 +658,7 @@
 0.0.0.0 lemillindia.com
 0.0.0.0 lemmy.ml
 0.0.0.0 lemonde.fr
+0.0.0.0 lemonjelly.com
 0.0.0.0 letras.com
 0.0.0.0 letrasboom.com
 0.0.0.0 letterboxd.com
@@ -832,6 +836,7 @@
 0.0.0.0 nnnow.com
 0.0.0.0 noemamag.com
 0.0.0.0 nordenbladet.com
+0.0.0.0 nordstrom.com
 0.0.0.0 normanrecords.com
 0.0.0.0 notion.online
 0.0.0.0 noxinfluencer.com
@@ -1019,6 +1024,7 @@
 0.0.0.0 shemazing.net
 0.0.0.0 shethepeople.tv
 0.0.0.0 sho.com
+0.0.0.0 shopmelissa.com
 0.0.0.0 shoppre.com
 0.0.0.0 shorefire.com
 0.0.0.0 shortpedia.com
