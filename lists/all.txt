@@ -58,6 +58,7 @@
 0.0.0.0 amarujala.com
 0.0.0.0 amazon.com
 0.0.0.0 amazon.in
+0.0.0.0 amazonadviser.com
 0.0.0.0 ambcrypto.com
 0.0.0.0 americamagazine.org
 0.0.0.0 americansongwriter.com
@@ -197,6 +198,7 @@
 0.0.0.0 careers360.com
 0.0.0.0 caretobeauty.com
 0.0.0.0 cars.com
+0.0.0.0 cartermatt.com
 0.0.0.0 catalyst-journal.com
 0.0.0.0 catersnews.com
 0.0.0.0 caughtoffside.com
@@ -244,6 +246,7 @@
 0.0.0.0 coinmarketcap.com
 0.0.0.0 coinstats.app
 0.0.0.0 cointelegraph.com
+0.0.0.0 collider.com
 0.0.0.0 comcast.com
 0.0.0.0 comicbook.com
 0.0.0.0 complex.com
@@ -258,6 +261,7 @@
 0.0.0.0 countryliving.com
 0.0.0.0 cracked.com
 0.0.0.0 crackmagazine.net
+0.0.0.0 craveyoutv.com
 0.0.0.0 creambell.com
 0.0.0.0 cricket.com
 0.0.0.0 cricket.com.au
@@ -352,6 +356,7 @@
 0.0.0.0 edexlive.com
 0.0.0.0 educationtimes.com
 0.0.0.0 electrek.co
+0.0.0.0 elitedaily.com
 0.0.0.0 elle.com
 0.0.0.0 elle.com.au
 0.0.0.0 ellgeebe.com
@@ -371,6 +376,7 @@
 0.0.0.0 espn.com
 0.0.0.0 espn.in
 0.0.0.0 espncricinfo.com
+0.0.0.0 esportsinsider.com
 0.0.0.0 esquire.com
 0.0.0.0 essence.com
 0.0.0.0 etcanada.com
@@ -513,6 +519,7 @@
 0.0.0.0 hindustantimes.com
 0.0.0.0 hiphopcanada.com
 0.0.0.0 hiphopdx.com
+0.0.0.0 hitc.com
 0.0.0.0 hm.com
 0.0.0.0 hmgroup.com
 0.0.0.0 hmv.com
@@ -979,6 +986,7 @@
 0.0.0.0 rfa.org
 0.0.0.0 riaa.com
 0.0.0.0 rigorousthemes.com
+0.0.0.0 riotgames.com
 0.0.0.0 riotimesonline.com
 0.0.0.0 rnz.co.nz
 0.0.0.0 roblox.com
@@ -1344,6 +1352,7 @@
 0.0.0.0 westside.com
 0.0.0.0 wfla.com
 0.0.0.0 whatsonweibo.com
+0.0.0.0 whattowatch.com
 0.0.0.0 who.int
 0.0.0.0 whosampled.com
 0.0.0.0 whosdatedwho.com
@@ -1353,6 +1362,7 @@
 0.0.0.0 wionews.com
 0.0.0.0 wired.com
 0.0.0.0 wmagazine.com
+0.0.0.0 womenshealthmag.com
 0.0.0.0 wonderwall.com
 0.0.0.0 woodmagazine.com
 0.0.0.0 worldbank.org
