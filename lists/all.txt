@@ -1,5 +1,5 @@
 ! Description: blocklist against social media, news, entertainment & consumerism
-! Homepage: https://polarhive.ml/arceo
+! Homepage: https://polarhive.net/arceo
 ! Licence: https://www.gnu.org/licenses/gpl-3.0.txt
 ! Title: arceo
 0.0.0.0 4chan.org
@@ -118,6 +118,7 @@
 0.0.0.0 bckonline.com
 0.0.0.0 beatport.com
 0.0.0.0 beatsbydre.com
+0.0.0.0 beatsperminute.com
 0.0.0.0 beebom.com
 0.0.0.0 behance.net
 0.0.0.0 beincrypto.com
@@ -137,6 +138,7 @@
 0.0.0.0 bigdipper.no
 0.0.0.0 bigthink.com
 0.0.0.0 bikewale.com
+0.0.0.0 bilibili.tv
 0.0.0.0 billboard.com
 0.0.0.0 bing.com
 0.0.0.0 binged.com
@@ -173,6 +175,7 @@
 0.0.0.0 boyculture.com
 0.0.0.0 brave.com
 0.0.0.0 brides.com
+0.0.0.0 brooklynvegan.com
 0.0.0.0 brudirect.com
 0.0.0.0 btctimes.com
 0.0.0.0 bundesliga.com
@@ -276,6 +279,7 @@
 0.0.0.0 cryptonews.net
 0.0.0.0 ctvnews.ca
 0.0.0.0 cult.fit
+0.0.0.0 culturedmag.com
 0.0.0.0 curiositystream.com
 0.0.0.0 cyworld.com
 0.0.0.0 daijiworld.com
@@ -288,6 +292,7 @@
 0.0.0.0 dailypioneer.com
 0.0.0.0 dailyrecord.co.uk
 0.0.0.0 dailystar.co.uk
+0.0.0.0 dailytrojan.com
 0.0.0.0 dailywire.com
 0.0.0.0 dallasnews.com
 0.0.0.0 danspapers.com
@@ -321,6 +326,7 @@
 0.0.0.0 disneyplus.com
 0.0.0.0 dispatch.com
 0.0.0.0 distractify.com
+0.0.0.0 districtfray.com
 0.0.0.0 dlnews.com
 0.0.0.0 dnaindia.com
 0.0.0.0 dnyuz.com
@@ -391,6 +397,7 @@
 0.0.0.0 evoke.ie
 0.0.0.0 ew.com
 0.0.0.0 exchange.art
+0.0.0.0 explore-liverpool.com
 0.0.0.0 express.co.uk
 0.0.0.0 expressandstar.com
 0.0.0.0 extra.ie
@@ -460,6 +467,7 @@
 0.0.0.0 gawker.com
 0.0.0.0 gaytimes.co.uk
 0.0.0.0 gazettengr.com
+0.0.0.0 gematsu.com
 0.0.0.0 genius.com
 0.0.0.0 geo.tv
 0.0.0.0 getpocket.com
@@ -688,6 +696,7 @@
 0.0.0.0 lipstickalley.com
 0.0.0.0 liquor.com
 0.0.0.0 lithub.com
+0.0.0.0 live4ever.uk.com
 0.0.0.0 liveakhbar.in
 0.0.0.0 livehindustan.com
 0.0.0.0 livejournal.com
@@ -916,6 +925,8 @@
 0.0.0.0 pixar.com
 0.0.0.0 pizzahut.co.in
 0.0.0.0 pkbnews.in
+0.0.0.0 platform-mag.com
+0.0.0.0 platformer.news
 0.0.0.0 platomania.nl
 0.0.0.0 play.date
 0.0.0.0 playstation.com
@@ -964,6 +975,7 @@
 0.0.0.0 rateyourmusic.com
 0.0.0.0 rbth.com
 0.0.0.0 rd.com
+0.0.0.0 readdork.com
 0.0.0.0 realityblurb.com
 0.0.0.0 realsimple.com
 0.0.0.0 reason.com
@@ -1226,6 +1238,7 @@
 0.0.0.0 thevogue.com
 0.0.0.0 thewestsideshop.com
 0.0.0.0 thewire.in
+0.0.0.0 thewrap.com
 0.0.0.0 theybf.com
 0.0.0.0 thisisanfield.com
 0.0.0.0 thisweek.gnome.org
@@ -1285,6 +1298,7 @@
 0.0.0.0 ulta.com
 0.0.0.0 un.org
 0.0.0.0 uncrazed.com
+0.0.0.0 undertheradarmag.com
 0.0.0.0 unicornstore.in
 0.0.0.0 unilever.com
 0.0.0.0 universalpictures.com

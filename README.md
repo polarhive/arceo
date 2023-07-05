@@ -23,13 +23,13 @@ for hard-blocking sites.
 ## Why did you make this?
 
 Nowadays, I get all my social media updates using RSS feeds: using
-[newsboat](https://polarhive.ml/dots). I block Facebook, Reddit, Twitter,
+[newsboat](https://polarhive.net/dots). I block Facebook, Reddit, Twitter,
 YouTube & other mainstream social media in this blocklist.
 
 I can browse and search articles locally, in pure plain-text. Paired with
 newsboat macros, I can archive videos with yt-dl, maintain a weekend binge-list
 or save articles for-later. I don't like recommendation engines when I'm
-browsing. I want things to be static & not disturb my [workflow](https://polarhive.ml/blog/rss-feeds/).
+browsing. I want things to be static & not disturb my [workflow](https://polarhive.net/blog/rss-feeds/).
 I've blocked news sites, streaming sites, e-commerce and sites that
 have anti-user behaviour — à la tracking, recommendation engines that
 keep you hooked. Feel free to fork this project & tune it to your needs.
@@ -37,8 +37,8 @@ keep you hooked. Feel free to fork this project & tune it to your needs.
 ## Want to add a site?
 
 Did I miss any site? Send me an
-[email](mailto:polarhive@riseup.net?subject=arceo-entry) or use my
-[/contact](https://polarhive.ml/contact/) form.
+[email](mailto:mail@polarhive.net?subject=arceo-entry) or use my
+[/contact](https://polarhive.net/contact/) form.
 
 ## What's soft-blocking?
 
@@ -56,6 +56,6 @@ arceo: Latin word meaning — 'keeping away' or 'preventing'
 ```
 
 ---
-This repo is hosted on [Codeberg](https://polarhive.ml/arceo) & mirrored to [GitHub](https://polarhive.ml/github) for traffic.
+This repo is hosted on [Codeberg](https://polarhive.net/arceo) & mirrored to [GitHub](https://polarhive.net/github) for traffic.
 
-[![license: GPLv3 or Later](https://polarhive.ml/assets/badges/gpl-3.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)
+[![license: GPLv3 or Later](https://polarhive.net/assets/badges/gpl-3.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)
