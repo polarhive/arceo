@@ -491,7 +491,6 @@
 0.0.0.0 goodmorningamerica.com
 0.0.0.0 goodnewsnetwork.org
 0.0.0.0 goodto.com
-0.0.0.0 google.com
 0.0.0.0 goop.com
 0.0.0.0 goss.ie
 0.0.0.0 gotceleb.com
