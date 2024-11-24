@@ -765,6 +765,7 @@
 0.0.0.0 money.com
 0.0.0.0 moneycontrol.com
 0.0.0.0 moneywatch.com
+0.0.0.0 monkeytype.com
 0.0.0.0 monki.com
 0.0.0.0 montrealgazette.com
 0.0.0.0 moparinsiders.com
@@ -1388,6 +1389,7 @@
 0.0.0.0 wtol.com
 0.0.0.0 www3.nhk.or.jp
 0.0.0.0 wynk.in
+0.0.0.0 x.com
 0.0.0.0 xbox.com
 0.0.0.0 xda-developers.com
 0.0.0.0 xfl.com
