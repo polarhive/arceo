@@ -5,12 +5,13 @@
 ```
 
 [![uBO: add this filter](ubo.svg)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fcodeberg.org%2Fpolarhive%2Farceo%2Fraw%2Fbranch%2Fmain%2Flists%2Fall.txt&title=arceo)
-
 <details> <summary>Import uBlock filters manually</summary>
 
   1. Open uBlock Origin settings
-  2. Under the "Filter lists" tab, scroll to the bottom where it says “Custom” and click the “Import” checkbox to reveal the custom URL textbox
-  3. Paste the URL `https://codeberg.org/polarhive/arceo/raw/branch/main/lists/all.txt` into the textbox
+  2. Under the "Filter lists" tab, scroll to the bottom where it says “Custom”
+     and click the “Import” checkbox to reveal the custom URL textbox
+  3. Paste the URL
+     `https://codeberg.org/polarhive/arceo/raw/branch/main/lists/all.txt` into the textbox
   4. Press `Apply Changes` in the upper left hand corner
 
 </details>
@@ -55,7 +56,3 @@ DNS cache / rebooting. This friction should work to your advantage.
 arceo: Latin word meaning — 'keeping away' or 'preventing'
 ```
 
----
-This repo is hosted on [Codeberg](https://polarhive.net/arceo) & mirrored to [GitHub](https://polarhive.net/github) for traffic.
-
-[![license: GPLv3 or Later](https://polarhive.net/assets/badges/gpl-3.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)
