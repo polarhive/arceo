@@ -177,6 +177,7 @@
 0.0.0.0 brides.com
 0.0.0.0 brooklynvegan.com
 0.0.0.0 brudirect.com
+0.0.0.0 bsky.app
 0.0.0.0 btctimes.com
 0.0.0.0 bundesliga.com
 0.0.0.0 business-standard.com
@@ -205,6 +206,7 @@
 0.0.0.0 catalyst-journal.com
 0.0.0.0 catersnews.com
 0.0.0.0 caughtoffside.com
+0.0.0.0 cbc.ca
 0.0.0.0 cbr.com
 0.0.0.0 cbslocal.com
 0.0.0.0 cbsnews.com
@@ -562,6 +564,7 @@
 0.0.0.0 illumination.com
 0.0.0.0 ilovefreesoftware.com
 0.0.0.0 imdb.com
+0.0.0.0 imposemagazine.com
 0.0.0.0 impressivewebs.com
 0.0.0.0 imusic.dk
 0.0.0.0 inc.com
@@ -731,6 +734,7 @@
 0.0.0.0 mashable.com
 0.0.0.0 masslive.com
 0.0.0.0 masterani.one
+0.0.0.0 mastodon.social
 0.0.0.0 mathrubhumi.com
 0.0.0.0 mcdonalds.com
 0.0.0.0 medelita.com
@@ -796,7 +800,10 @@
 0.0.0.0 nba.com
 0.0.0.0 nbc.com
 0.0.0.0 nbc12.com
+0.0.0.0 nbclosangeles.com
 0.0.0.0 nbcnews.com
+0.0.0.0 nbcnewyork.com
+0.0.0.0 nbcphiladelphia.com
 0.0.0.0 ndtv.com
 0.0.0.0 nebula.tv
 0.0.0.0 neowin.net
@@ -830,6 +837,7 @@
 0.0.0.0 newslaundry.com
 0.0.0.0 newslivetv.com
 0.0.0.0 newsmax.com
+0.0.0.0 newsnationnow.com
 0.0.0.0 newsnow.com
 0.0.0.0 newsroompost.com
 0.0.0.0 newsweek.com
